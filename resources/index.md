@@ -69,7 +69,7 @@ hide:
     <div class="card text-white bg-danger mb-3" style="max-width: 18rem;">
       <div class="card-body">
         <h5 class="card-title">Produce</h5>
-        <p class="card-text">1. Develop content using open files and formats. </br> 2. Define metadata. </br> 3. Perform internal QA check.</p>
+        <p class="card-text">1. Develop content using common apps and file formats. </br> 2. Define machine readable metadata. </br> 3. Perform internal QA check.</p>
       </div>
     </div>
   </div>
@@ -78,7 +78,7 @@ hide:
     <div class="card text-white bg-warning mb-3" style="max-width: 18rem;">
       <div class="card-body">
         <h5 class="card-title">Publish</h5>
-        <p class="card-text">1. Release to public for learners & instructors. </br>2. Ensure accessibility and define attribution. </br>3. Enable feedback gathering.</p>
+        <p class="card-text">1. Define license and other related info. </br>2. Release to public for instructors and learners. </br>3. Enable feedback gathering.</p>
       </div>
     </div>
   </div>
@@ -87,7 +87,7 @@ hide:
     <div class="card text-white bg-info mb-3" style="max-width: 18rem;">
       <div class="card-body">
         <h5 class="card-title">Verify</h5>
-        <p class="card-text">1. Final QA check. </br> </br> 2. Use gathered feedback for continuous improvement.</br></p>
+        <p class="card-text">1. Final QA check. </br> </br> 2. Use gathered feedback for continuous improvement.</br></br></p>
       </div>
     </div>
   </div>
@@ -107,7 +107,7 @@ hide:
     <div class="card bg-light mb-3" style="max-width: 18rem;">
       <div class="card-body">
         <h5 class="card-title">Continuous Improvement</h5>
-        <p class="card-text">1. Create a list of potential improvements. </br> 2. Choose a set of improvements to be implemented and start a new release cycle.</br></p>
+        <p class="card-text">1. Create a list of potential improvements. </br></br> 2. Choose a set of improvements to be implemented and start a new release cycle.</br></p>
       </div>
     </div>
   </div>
