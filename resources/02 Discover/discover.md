@@ -22,7 +22,7 @@ Reusable materials can be found anywhere. These are just some examples:
 
 <div class="grid cards" markdown>
 
--   :material-clock-fast:{ .lg .middle } __OER__
+-   :material-open-source-initiative:{ .lg .middle } __OER__
 
     ---
 
@@ -40,7 +40,7 @@ Reusable materials can be found anywhere. These are just some examples:
     
     [FORRT](https://forrt.org/)
 
--   :fontawesome-brands-markdown:{ .lg .middle } __EOSC__
+-   :material-cloud-circle-outline:{ .lg .middle } __EOSC__
 
     ---
 
@@ -49,7 +49,7 @@ Reusable materials can be found anywhere. These are just some examples:
     Most EOSC projects have their own training catalogues and/or platforms...
     
 
--   :material-format-font:{ .lg .middle } __General__
+-   :material-book:{ .lg .middle } __General__
 
     ---
 
