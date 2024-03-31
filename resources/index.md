@@ -34,35 +34,84 @@ hide:
 
 ![Header with Skills4EOSC funding information](./attachments/header.png)
 
-# FAIR-by-Design Microlearning
+<div class="row">
+  <div class="col-sm-4">
+    <div class="card text-white bg-primary mb-3" style="max-width: 18rem;">
+      <div class="card-header"><i class="fa-brands fa-html5"></i> Prepare</div>
+      <div class="card-body">
+        <h5 class="card-title">Primary card title</h5>
+        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+          content.</p>
+      </div>
+    </div>
+  </div>
 
-{!RELEASE_NOTES.md!}
+  <div class="col-sm-4">
+    <div class="card text-white bg-secondary mb-3" style="max-width: 18rem;">
+      <div class="card-header">Discover</div>
+      <div class="card-body">
+        <h5 class="card-title">Secondary card title</h5>
+        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+          content.</p>
+      </div>
+    </div>
+  </div>
 
+  <div class="col-sm-4">
+    <div class="card text-white bg-success mb-3" style="max-width: 18rem;">
+      <div class="card-header">Design</div>
+      <div class="card-body">
+        <h5 class="card-title">Success card title</h5>
+        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+          content.</p>
+      </div>
+    </div>
+  </div>
 
-## Author(s)
+  <div class="col-sm-4">
+    <div class="card text-white bg-danger mb-3" style="max-width: 18rem;">
+      <div class="card-header">Produce</div>
+      <div class="card-body">
+        <h5 class="card-title">Danger card title</h5>
+        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+          content.</p>
+      </div>
+    </div>
+  </div>
 
-- List of people involved in preparing the training
-- format: Name Surname, comma separated
+  <div class="col-sm-4">
+    <div class="card text-white bg-warning mb-3" style="max-width: 18rem;">
+      <div class="card-header">Publish</div>
+      <div class="card-body">
+        <h5 class="card-title">Warning card title</h5>
+        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+          content.</p>
+      </div>
+    </div>
+  </div>
 
+  <div class="col-sm-4">
+    <div class="card text-white bg-info mb-3" style="max-width: 18rem;">
+      <div class="card-header">Verify</div>
+      <div class="card-body">
+        <h5 class="card-title">Info card title</h5>
+        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+          content.</p>
+      </div>
+    </div>
+  </div>
+</div>
 
-## Contact information
-
-- how to reach out to training organizers
-
-## License
-
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
-
-## DOI
-
-[https://doi.org/10.5072/zenodo.1234567](https://doi.org/10.5072/zenodo.1234567)
-
-## Accessibility Mission
-
-Skills4EOSC is dedicated to ensuring that all produced learning materials are accessible to as many visitors as possible regardless of their ability or technology. We have an active commitment to increasing our learning materials accessibility. The main standards that we aim to comply with are WCAG v.2.1 Level AA criteria and PDF/UA (ISO 14289).
-
-### Acknowledgement
-
-These learning materials have been developed by following the [FAIR-by-Design Methodology](https://doi.org/10.5281/zenodo.7875540).
-
-![Skills4EOSC logo](./attachments/skills4eosc.png)
+<div class="row">
+  <div class="col-sm-4">
+    <div class="card bg-light mb-3" style="max-width: 18rem;">
+      <div class="card-header">Continuous Improvement</div>
+      <div class="card-body">
+        <h5 class="card-title">Light card title</h5>
+        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+          content.</p>
+      </div>
+    </div>
+  </div>
+</div>
+  

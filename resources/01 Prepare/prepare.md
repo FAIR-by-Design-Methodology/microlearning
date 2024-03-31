@@ -37,7 +37,7 @@ hide:
 
 ## Adopt a metadata schema
 <div class="w-100 p-3" style="background-color: #eee;">
-  <a href="https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%201%20%E2%80%93%20Prepare/02-Preparing%20FAIR%20Learning%20Objects/02-Preparing%20FAIR%20Learning%20Objects/#rda-minimal-metadata-for-learning-resources" class="btn btn-primary stretched-link">The RDA Minimal Metadata Set for Learning Resources</a>
+  <a href="https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%201%20%E2%80%93%20Prepare/02-Preparing%20FAIR%20Learning%20Objects/02-Preparing%20FAIR%20Learning%20Objects/#rda-minimal-metadata-for-learning-resources" class="btn btn-primary">The RDA Minimal Metadata Set for Learning Resources</a>
 </div>
 
 ??? info "More on FAIR learning objects definition"
