@@ -61,7 +61,7 @@ hide:
 
     ---
 
-   When and how the learning materials can be used and for what purposes?
+    When and how the learning materials can be used and for what purposes?
 
 -   :material-target-account:{ .lg .middle } __Target Audience__
 
@@ -75,13 +75,12 @@ hide:
 
     What does the target audience need to know or understand before starting the learning process?
 
-    [:octicons-arrow-right-24: Customization](https://google.com)
 
 -   :material-target-account:{ .lg .middle } __Scope__
 
     ---
 
-    Is it going to be a single learning object, or an aggregation of some sort such as a course?
+    Is it going to be a single learning unit, or a group such as a course?
 
 -   :material-bullseye-arrow:{ .lg .middle } __Learning Objectives__
 
@@ -97,26 +96,9 @@ hide:
     
         Formulate the objectives as actionable verb + observable knowledge, skill, attitude, behavior or ability.
 
-    [:octicons-arrow-right-24: See more](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%201%20%E2%80%93%20Prepare/02-Preparing%20FAIR%20Learning%20Objects/02-Preparing%20FAIR%20Learning%20Objects_cont/#defining-learning-objectives)
+    [:octicons-arrow-right-24: Learn more](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%201%20%E2%80%93%20Prepare/02-Preparing%20FAIR%20Learning%20Objects/02-Preparing%20FAIR%20Learning%20Objects_cont/#defining-learning-objectives)
 
 </div>
 
-
-
-Have SMART objectives! ​
-
-specific, ​
-
-measurable, ​
-
-attainable, ​
-
-relevant and ​
-
-time-bound​
-
-
-
-Look for the Blooms taxonomy verbs!​
 
 
