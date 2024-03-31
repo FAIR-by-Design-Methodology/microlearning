@@ -31,7 +31,7 @@ hide:
     - navigation
 ---
 
-<div class="p-5 m-5 bg-dark text-white">
+<div class="p-5 m-0 bg-dark text-white">
     <p> Welcome to the FAIR-by-Design microlearning menu. </p>
     <p>Below are the main stages of the FAIR-by-Design Methodology that will help guide you on your journey of creating FAIR learning materials.</p>
 </div>
@@ -41,8 +41,10 @@ hide:
   <div class="col-sm-4">
     <div class="card text-white bg-primary mb-3" style="max-width: 18rem;">
       <div class="card-body">
+      <a href="https://fair-by-design-methodology.github.io/microlearning/latest/01%20Prepare/prepare/">
         <h5 class="card-title">Prepare</h5>
         <p class="card-text">1. Do you understand FAIR and its implications?</br>2. Define purpose, learning objectives, target audience.</p>
+        </a>
       </div>
     </div>
   </div>
@@ -87,7 +89,7 @@ hide:
     <div class="card text-white bg-info mb-3" style="max-width: 18rem;">
       <div class="card-body">
         <h5 class="card-title">Verify</h5>
-        <p class="card-text">1. Final QA check. </br> </br> 2. Use gathered feedback for continuous improvement.</br></br></p>
+        <p class="card-text">1. Final QA check. </br> </br> 2. Use gathered feedback for continuous improvement.</br></p>
       </div>
     </div>
   </div>
@@ -122,7 +124,7 @@ hide:
   </div>
 </div>
   
-<div class="p-5 m-5 bg-dark text-white">
+<div class="p-5 m-0 bg-dark text-white">
     <p>Review each stage and the essential steps that it includes.</p> 
     <p>If you have any questions at any stage on your journey do not hesitate to <a href="mailto:sonja.filiposka@finki.ukim.mk">contact the FAIR-by-Design methodology team</a>.</p>
     <p></br>May all your materials be FAIR!</p> 
