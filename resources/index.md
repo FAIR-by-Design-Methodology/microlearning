@@ -31,7 +31,7 @@ hide:
     - navigation
 ---
 
-<div class="p-3 mb-2 bg-dark text-white">
+<div class="p-5 mb-2 bg-dark text-white">
     <p> Welcome to the FAIR-by-Design microlearning menu. </p>
     <p>Below are the main stages of the FAIR-by-Design Methodology that will help guide you on your journey of creating FAIR learning materials.</p>
 </div>
@@ -40,22 +40,18 @@ hide:
 <div class="row">
   <div class="col-sm-4">
     <div class="card text-white bg-primary mb-3" style="max-width: 18rem;">
-      <div class="card-header"><i class="mdi mdi-piggy-bank-outline"></i></div>
       <div class="card-body">
-        <h5 class="card-title">Primary card title</h5>
-        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
-          content.</p>
+        <h5 class="card-title">Prepare</h5>
+        <p class="card-text">1. Do you understand FAIR and its implications?</br>2. Define purpose, learning objectives, target audience.</p>
       </div>
     </div>
   </div>
 
   <div class="col-sm-4">
     <div class="card text-white bg-secondary mb-3" style="max-width: 18rem;">
-      <div class="card-header"><span class="mdi mdi-finance"></span></div>
       <div class="card-body">
-        <h5 class="card-title">Secondary card title</h5>
-        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
-          content.</p>
+        <h5 class="card-title">Discover</h5>
+        <p class="card-text">1. Find existing resources. </br>2. Identify potential for reuse.</p>
       </div>
     </div>
   </div>
@@ -118,7 +114,7 @@ hide:
   </div>
 </div>
   
-<div class="p-3 mb-2 bg-dark text-white">
+<div class="p-5 mb-2 bg-dark text-white">
     <p>Review each stage and the essential steps that it includes.</p> 
     <p>If you have any questions at any stage on your journey do not hesitate to <a href="mailto:sonja.filiposka@finki.ukim.mk">contact the FAIR-by-Design methodology team</a>.</p>
     <p></br>May all your materials be FAIR!</p> 
