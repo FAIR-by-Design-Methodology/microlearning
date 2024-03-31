@@ -40,7 +40,7 @@ hide:
 <div class="row">
   <div class="col-sm-4">
     <div class="card text-white bg-primary mb-3" style="max-width: 18rem;">
-      <div class="card-header"><i class="fa-brands fa-html5"></i> Prepare</div>
+      <div class="card-header"><i class="mdi mdi-piggy-bank-outline"></i></div>
       <div class="card-body">
         <h5 class="card-title">Primary card title</h5>
         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
@@ -51,7 +51,7 @@ hide:
 
   <div class="col-sm-4">
     <div class="card text-white bg-secondary mb-3" style="max-width: 18rem;">
-      <div class="card-header">Discover</div>
+      <div class="card-header"><span class="mdi mdi-finance"></span></div>
       <div class="card-body">
         <h5 class="card-title">Secondary card title</h5>
         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
