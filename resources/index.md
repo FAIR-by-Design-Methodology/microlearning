@@ -32,7 +32,8 @@ hide:
 ---
 
 <div class="p-3 mb-2 bg-dark text-white">
-    Welcome to the FAIR-by-Design microlearning menu. Below are the main stages of the FAIR-by-Design Methodology that will help guide you on your journey of creating FAIR learning materials.
+    <p> Welcome to the FAIR-by-Design microlearning menu. </p>
+    <p>Below are the main stages of the FAIR-by-Design Methodology that will help guide you on your journey of creating FAIR learning materials.</p>
 </div>
 
 
@@ -118,7 +119,7 @@ hide:
 </div>
   
 <div class="p-3 mb-2 bg-dark text-white">
-    Review each stage and the essential steps that it includes. If you have any questions at any stage on your journey do not hesitate to [contact the FAIR-by-Design methodology team](mailto:sonja.filiposka@finki.ukim.mk).
-
-    May all your materials be FAIR! 
+    <p>Review each stage and the essential steps that it includes.</p> 
+    <p>If you have any questions at any stage on your journey do not hesitate to <a href="mailto:sonja.filiposka@finki.ukim.mk">contact the FAIR-by-Design methodology team</a>.</p>
+    <p></br>May all your materials be FAIR!</p> 
 </div>
