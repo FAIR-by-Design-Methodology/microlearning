@@ -30,10 +30,11 @@ hide:
     - toc
     - navigation
 ---
-
+<div class="container bg-dark">
 <div class="p-5 m-0 bg-dark text-white">
     <p> Welcome to the FAIR-by-Design microlearning menu. </p>
     <p>Below are the main stages of the FAIR-by-Design Methodology that will help guide you on your journey of creating FAIR learning materials.</p>
+</div>
 </div>
 
 
@@ -53,6 +54,7 @@ hide:
       <div class="card-body">
         <h5 class="card-title">Discover</h5>
         <p class="card-text">1. Find existing resources. </br></br>2. Identify potential for reuse.</br></br></p>
+        <a href="https://fair-by-design-methodology.github.io/microlearning/latest/02%20Discover/discover/" class="btn btn-outline-primary stretched-link">Go to stage</a>
       </div>
     </div>
   </div>
@@ -62,6 +64,7 @@ hide:
       <div class="card-body">
         <h5 class="card-title">Design</h5>
         <p class="card-text">1. Define syllabus and structure. </br></br>2. Identify granularity and facilitation materials.</p>
+        <a href="https://fair-by-design-methodology.github.io/microlearning/latest/03%20Design/design/" class="btn btn-outline-primary stretched-link">Go to stage</a>
       </div>
     </div>
   </div>
@@ -71,6 +74,7 @@ hide:
       <div class="card-body">
         <h5 class="card-title">Produce</h5>
         <p class="card-text">1. Develop content using common apps and file formats. </br> 2. Define machine readable metadata. </br> 3. Perform internal QA check.</p>
+        <a href="https://fair-by-design-methodology.github.io/microlearning/latest/04%20Produce/produce/" class="btn btn-outline-primary stretched-link">Go to stage</a>
       </div>
     </div>
   </div>
@@ -80,6 +84,7 @@ hide:
       <div class="card-body">
         <h5 class="card-title">Publish</h5>
         <p class="card-text">1. Define license and other related info. </br>2. Release to public for instructors and learners. </br>3. Enable feedback gathering.</p>
+        <a href="https://fair-by-design-methodology.github.io/microlearning/latest/05%20Publish/publish/" class="btn btn-outline-primary stretched-link">Go to stage</a>
       </div>
     </div>
   </div>
@@ -89,6 +94,7 @@ hide:
       <div class="card-body">
         <h5 class="card-title">Verify</h5>
         <p class="card-text">1. Final QA check. </br> </br> 2. Use gathered feedback for continuous improvement.</br></p>
+        <a href="https://fair-by-design-methodology.github.io/microlearning/latest/06%20Verify/verify/" class="btn btn-outline-primary stretched-link">Go to stage</a>
       </div>
     </div>
   </div>
@@ -109,6 +115,7 @@ hide:
       <div class="card-body">
         <h5 class="card-title">Continuous Improvement</h5>
         <p class="card-text">1. Create a list of potential improvements. </br></br> 2. Choose a set of improvements to be implemented and start a new release cycle.</br></p>
+        <a href="https://fair-by-design-methodology.github.io/microlearning/latest/06%20Verify/verify/" class="btn btn-outline-primary stretched-link">Go to stage</a>
       </div>
     </div>
   </div>
