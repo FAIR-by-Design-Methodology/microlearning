@@ -13,12 +13,9 @@ hide:
 
 !!! quote ""
 
-    Before anything else, preparation is the key to success!
-    -- <cite>Alexander Graham Bell​n</cite>
+    Before anything else, preparation is the key to success! -- **Alexander Graham Bell​**
 
-
-
-​## First things first. What is FAIR?
+## First things first. What is FAIR?
 
 <div class="grid cards" markdown>
 
@@ -28,15 +25,11 @@ hide:
 
     The editable learning material has a unique and persistent identifier (PID) and is described with sufficiently detailed metadata.
 
-    [:octicons-arrow-right-24: Getting started](https://google.com)
-
 -   :material-security:{ .lg .middle } __Accessible__
 
     ---
 
     The human and machine readable metadata and object are stored in a trusted repository with clear authentication and authorization procedures.
-
-    [:octicons-arrow-right-24: Reference](https://google.com)
 
 -   :material-progress-wrench:{ .lg .middle } __Interoperable__
 
@@ -45,8 +38,6 @@ hide:
     The metadata describing the learning material follows a the RDA minimum metadata schema combined with agreed-upon controlled vocabularies.
 
     Formal, accessible, shared, and broadly applicable language(s) and format(s) are used to develop the material.
-
-    [:octicons-arrow-right-24: Customization](https://google.com)
 
 -   :material-recycle-variant:{ .lg .middle } __Reusable__
 
@@ -63,7 +54,19 @@ hide:
     - [FAIR guiding principles](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%201%20%E2%80%93%20Prepare/01-FAIR%20skills%20%26%20principles/01-FAIR%20skills%20%26%20principles/#fair-guiding-principles)
     - [FAIR learning objects](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%201%20%E2%80%93%20Prepare/01-FAIR%20skills%20%26%20principles/01-FAIR%20skills%20%26%20principles/#fair-learning-objects)
 
-## Understand your audience to be best understood​. Define: 
+<div class="row">
+  <div class="col-sm-4">
+    <div class="card text-white bg-primary mb-3" style="max-width: 18rem;">
+      <div class="card-header"><i class="fa-brands fa-html5"></i> Think backward</div>
+      <div class="card-body">
+        <h5 class="card-title">[Steps of the backward learning process](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%201%20%E2%80%93%20Prepare/02-Preparing%20FAIR%20Learning%20Objects/02-Preparing%20FAIR%20Learning%20Objects_cont/#backward-instructional-design-process)</h5>
+        <p class="card-text">1. start from your desired learning outcomes... 2. how are you going to assess their achievement.... 3. how should you structure the material to reach them...</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+## Define
 
 <div class="grid cards" markdown>
 
@@ -132,7 +135,7 @@ relevant and ​
 
 time-bound​
 
-Think backward: start from the outcomes to reach the topics​
+
 
 Look for the Blooms taxonomy verbs!​
 
