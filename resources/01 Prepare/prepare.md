@@ -59,8 +59,8 @@ hide:
     <div class="card text-white bg-primary mb-3" style="max-width: 18rem;">
       <div class="card-header"><i class="fa-brands fa-html5"></i> Think backward</div>
       <div class="card-body">
-        <h5 class="card-title">[Steps of the backward learning process](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%201%20%E2%80%93%20Prepare/02-Preparing%20FAIR%20Learning%20Objects/02-Preparing%20FAIR%20Learning%20Objects_cont/#backward-instructional-design-process)</h5>
-        <p class="card-text">1. start from your desired learning outcomes... 2. how are you going to assess their achievement.... 3. how should you structure the material to reach them...</p>
+        <h5 class="card-title"><a href="https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%201%20%E2%80%93%20Prepare/02-Preparing%20FAIR%20Learning%20Objects/02-Preparing%20FAIR%20Learning%20Objects_cont/#backward-instructional-design-process">Steps of the backward learning process</a></h5>
+        <p class="card-text">1. start from your desired learning outcomes... </br>2. how are you going to assess their achievement.... </br>3. how should you structure the material to reach them...</p>
       </div>
     </div>
   </div>
