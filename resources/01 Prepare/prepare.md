@@ -36,9 +36,9 @@ hide:
     The learning material has a clear usage license (CC-BY-4.0 recommended) and accurate information on provenance.
 
 ## Adopt a metadata schema
-
-<a href="https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%201%20%E2%80%93%20Prepare/02-Preparing%20FAIR%20Learning%20Objects/02-Preparing%20FAIR%20Learning%20Objects/#rda-minimal-metadata-for-learning-resources" class="btn btn-info stretched-link">The RDA Minimal Metadata Set for Learning Resources</a>
-
+<div class="w-100 p-3" style="background-color: #eee;">
+  <a href="https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%201%20%E2%80%93%20Prepare/02-Preparing%20FAIR%20Learning%20Objects/02-Preparing%20FAIR%20Learning%20Objects/#rda-minimal-metadata-for-learning-resources" class="btn btn-primary stretched-link">The RDA Minimal Metadata Set for Learning Resources</a>
+</div>
 
 ??? info "More on FAIR learning objects definition"
 
@@ -47,23 +47,25 @@ hide:
     - [FAIR guiding principles](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%201%20%E2%80%93%20Prepare/01-FAIR%20skills%20%26%20principles/01-FAIR%20skills%20%26%20principles/#fair-guiding-principles)
     - [FAIR learning objects](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%201%20%E2%80%93%20Prepare/01-FAIR%20skills%20%26%20principles/01-FAIR%20skills%20%26%20principles/#fair-learning-objects)
 
+## Start Ideating...
+
 <div class="row">
   <div class="col-sm-4">
     <div class="card text-white bg-secondary mb-3" >
       <div class="card-header"><i class="fa fa-fast-backward" aria-hidden="true"></i> Think backward</div>
       <div class="card-body">
         <h5 class="card-title">Step 1</h5>
-        <p class="card-text">1. Start from your desired learning outcomes...</p>
+        <p class="card-text">What are your desired learning outcomes...</p>
       </div>
     </div>
   </div>
 
-    <div class="col-sm-4">
+  <div class="col-sm-4">
     <div class="card bg-light mb-3" >
       <div class="card-header"><i class="fa fa-fast-backward" aria-hidden="true"></i> Think backward</div>
       <div class="card-body">
         <h5 class="card-title">Step 2</h5>
-        <p class="card-text">2. How are you going to assess their achievement....</p>
+        <p class="card-text">How are you going to assess their achievement....</p>
       </div>
     </div>
   </div>
@@ -73,7 +75,7 @@ hide:
       <div class="card-header"><i class="fa fa-fast-backward" aria-hidden="true"></i> Think backward</div>
       <div class="card-body">
         <h5 class="card-title">Step 3</h5>
-        <p class="card-text">3. How should you structure the material to reach them...</p>
+        <p class="card-text">How should you structure the material to reach them...</p>
       </div>
     </div>
   </div>
