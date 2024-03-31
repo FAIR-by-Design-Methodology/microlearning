@@ -4,13 +4,17 @@ author: "Skills4EOSC T2.3"
 tags: 
     - FAIR-by-Design Learning Materials
     - FAIR Learning Objects
-    - FAIR Learning Unit Template
 hide:
     - toc
     - navigation
 ---
 
 # Stage 1 - Prepare
+
+> Before anything else, preparation is the key to success!
+>
+> -- <cite>Alexander Graham Bell​n</cite>
+
 
 ## Small cards example
 
