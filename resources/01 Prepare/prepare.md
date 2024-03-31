@@ -17,6 +17,24 @@ hide:
 
 ## First things first. What is FAIR?
 
+!!! note "Findable"
+
+    The editable learning material has a unique and persistent identifier (PID) and is described with sufficiently detailed metadata.
+
+!!! success "Accessible"
+
+    The human and machine readable metadata and object are stored in a trusted repository with clear authentication and authorization procedures.
+
+!!! warning "Interoperable"
+
+    The metadata describing the learning material follows a the RDA minimum metadata schema combined with agreed-upon controlled vocabularies.
+
+    Formal, accessible, shared, and broadly applicable language(s) and format(s) are used to develop the material.
+
+!!! danger "Reusable"
+
+    The learning material has a clear usage license (CC-BY-4.0 recommended) and accurate information on provenance.
+
 <div class="grid cards" markdown>
 
 -   :material-tag-search-outline:{ .lg .middle } __Findable__
@@ -56,7 +74,7 @@ hide:
 
 <div class="row">
   <div class="col-sm-4">
-    <div class="card text-white bg-primary mb-3" style="max-width: 18rem;">
+    <div class="card text-white bg-primary mb-3" >
       <div class="card-header"><i class="fa fa-fast-backward" aria-hidden="true"></i> Think backward</div>
       <div class="card-body">
         <h5 class="card-title"><a href="https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%201%20%E2%80%93%20Prepare/02-Preparing%20FAIR%20Learning%20Objects/02-Preparing%20FAIR%20Learning%20Objects_cont/#backward-instructional-design-process">Steps of the backward learning process</a></h5>
