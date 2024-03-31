@@ -17,21 +17,21 @@ hide:
 
 ## First things first. What is FAIR?
 
-!!! note "Findable"
+??? note "Findable"
 
     The editable learning material has a unique and persistent identifier (PID) and is described with sufficiently detailed metadata.
 
-!!! success "Accessible"
+??? success "Accessible"
 
     The human and machine readable metadata and object are stored in a trusted repository with clear authentication and authorization procedures.
 
-!!! warning "Interoperable"
+??? warning "Interoperable"
 
     The metadata describing the learning material follows a the RDA minimum metadata schema combined with agreed-upon controlled vocabularies.
 
     Formal, accessible, shared, and broadly applicable language(s) and format(s) are used to develop the material.
 
-!!! danger "Reusable"
+??? danger "Reusable"
 
     The learning material has a clear usage license (CC-BY-4.0 recommended) and accurate information on provenance.
 
@@ -65,9 +65,9 @@ hide:
 
 </div>
 
-!!! info "More on FAIR learning objects definition"
+??? info "More on FAIR learning objects definition"
 
-    Learn more about 
+    Learn more about: 
     - [FAIR instructional design skills](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%201%20%E2%80%93%20Prepare/01-FAIR%20skills%20%26%20principles/01-FAIR%20skills%20%26%20principles/#fair-instructional-design-skills)
     - [FAIR guiding principles](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%201%20%E2%80%93%20Prepare/01-FAIR%20skills%20%26%20principles/01-FAIR%20skills%20%26%20principles/#fair-guiding-principles)
     - [FAIR learning objects](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%201%20%E2%80%93%20Prepare/01-FAIR%20skills%20%26%20principles/01-FAIR%20skills%20%26%20principles/#fair-learning-objects)
