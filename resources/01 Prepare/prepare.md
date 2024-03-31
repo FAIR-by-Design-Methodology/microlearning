@@ -29,7 +29,7 @@ hide:
 
 <div class="grid cards" markdown>
 
--   :material-clock-fast:{ .lg .middle } __Findable__
+-   :material-tag-search-outline:{ .lg .middle } __Findable__
 
     ---
 
@@ -38,7 +38,7 @@ hide:
 
     [:octicons-arrow-right-24: Getting started](https://google.com)
 
--   :fontawesome-brands-markdown:{ .lg .middle } __Accessible__
+-   :material-security:{ .lg .middle } __Accessible__
 
     ---
 
@@ -46,7 +46,7 @@ hide:
 
     [:octicons-arrow-right-24: Reference](https://google.com)
 
--   :material-format-font:{ .lg .middle } __Interoperable__
+-   :material-progess-wrench:{ .lg .middle } __Interoperable__
 
     ---
 
@@ -54,7 +54,7 @@ hide:
 
     [:octicons-arrow-right-24: Customization](https://google.com)
 
--   :material-scale-balance:{ .lg .middle } __Reusable__
+-   :material-recycle-variant:{ .lg .middle } __Reusable__
 
     ---
 
