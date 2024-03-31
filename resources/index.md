@@ -1,13 +1,12 @@
 ---
 # RDA learning materials metadata minimal set
-title: "Home"
+title: "FAIR-by-Design Microlearning"
 author: 
-    - Name of entity(ies) 
-    - authoring the resource
+    - Skills4EOSC T2.3
 tags: 
-    - Keywords
-    - Tags 
-    - Resource Description
+    - FAIR-by-Design
+    - FAIR Learning Objects
+    - Microlearning
 
 abstract: "A brief synopsis about or description of the learning resource."
 primaryLanguage: "two letter code, Language in which the resource was originally published or made available."
@@ -32,7 +31,10 @@ hide:
     - navigation
 ---
 
-![Header with Skills4EOSC funding information](./attachments/header.png)
+<div class="p-3 mb-2 bg-dark text-white">
+    Welcome to the FAIR-by-Design microlearning menu. Below are the main stages of the FAIR-by-Design Methodology that will help guide you on your journey of creating FAIR learning materials.
+</div>
+
 
 <div class="row">
   <div class="col-sm-4">
@@ -115,3 +117,8 @@ hide:
   </div>
 </div>
   
+<div class="p-3 mb-2 bg-dark text-white">
+    Review each stage and the essential steps that it includes. If you have any questions at any stage on your journey do not hesitate to [contact the FAIR-by-Design methodology team](mailto:sonja.filiposka@finki.ukim.mk).
+
+    May all your materials be FAIR! 
+</div>
