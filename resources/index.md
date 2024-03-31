@@ -30,7 +30,7 @@ hide:
     - toc
     - navigation
 ---
-<div class="container bg-dark p-5">
+<div class="container bg-dark p-5 mb-3">
   <div class="row row-xl p-xl-5">
     <div class="col col-xl p-xl-5">
         <div class="p-5 mx-2 bg-dark text-white">
