@@ -13,7 +13,7 @@ hide:
 
 !!! quote ""
 
-        Greater even than the greatest discovery is to keep open the way to future discovery. – **John Jacob Abel​**
+    Greater even than the greatest discovery is to keep open the way to future discovery. – **John Jacob Abel​**
 
 ​
 ## Get inspired
@@ -54,7 +54,9 @@ Reusable materials can be found anywhere. These are just some examples:
     ---
 
     [Creative Commons Search](https://search.creativecommons.org/) - content provided under a CC license
+
     [Zenodo](https://zenodo.org/) - a multi-disciplinary open repository
+
     [OSF](https://osf.io/) - a free, open research platform
     
 
