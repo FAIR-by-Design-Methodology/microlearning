@@ -35,6 +35,10 @@ hide:
 
     The learning material has a clear usage license (CC-BY-4.0 recommended) and accurate information on provenance.
 
+## Adopt a metadata schema
+
+<a href="https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%201%20%E2%80%93%20Prepare/02-Preparing%20FAIR%20Learning%20Objects/02-Preparing%20FAIR%20Learning%20Objects/#rda-minimal-metadata-for-learning-resources" class="btn btn-info stretched-link">The RDA Minimal Metadata Set for Learning Resources</a>
+
 
 ??? info "More on FAIR learning objects definition"
 
@@ -123,7 +127,7 @@ hide:
     
         Formulate the objectives as actionable verb + observable knowledge, skill, attitude, behavior or ability.
 
-    [:octicons-arrow-right-24: Learn more](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%201%20%E2%80%93%20Prepare/02-Preparing%20FAIR%20Learning%20Objects/02-Preparing%20FAIR%20Learning%20Objects_cont/#defining-learning-objectives)
+    [:octicons-arrow-right-24: See more](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%201%20%E2%80%93%20Prepare/02-Preparing%20FAIR%20Learning%20Objects/02-Preparing%20FAIR%20Learning%20Objects_cont/#defining-learning-objectives)
 
 </div>
 
