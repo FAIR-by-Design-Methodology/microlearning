@@ -31,7 +31,7 @@ hide:
     - navigation
 ---
 
-<div class="p-5 mb-2 bg-dark text-white">
+<div class="p-5 m-5 bg-dark text-white">
     <p> Welcome to the FAIR-by-Design microlearning menu. </p>
     <p>Below are the main stages of the FAIR-by-Design Methodology that will help guide you on your journey of creating FAIR learning materials.</p>
 </div>
@@ -51,7 +51,7 @@ hide:
     <div class="card text-white bg-secondary mb-3" style="max-width: 18rem;">
       <div class="card-body">
         <h5 class="card-title">Discover</h5>
-        <p class="card-text">1. Find existing resources. </br></br>2. Identify potential for reuse.</br></p>
+        <p class="card-text">1. Find existing resources. </br></br>2. Identify potential for reuse.</br></br></p>
       </div>
     </div>
   </div>
@@ -60,7 +60,7 @@ hide:
     <div class="card text-white bg-success mb-3" style="max-width: 18rem;">
       <div class="card-body">
         <h5 class="card-title">Design</h5>
-        <p class="card-text">1. Define syllabus and structure. </br>2. Identify granularity and facilitation materials.</p>
+        <p class="card-text">1. Define syllabus and structure. </br></br>2. Identify granularity and facilitation materials.</p>
       </div>
     </div>
   </div>
@@ -69,7 +69,7 @@ hide:
     <div class="card text-white bg-danger mb-3" style="max-width: 18rem;">
       <div class="card-body">
         <h5 class="card-title">Produce</h5>
-        <p class="card-text">Develop content using open files and formats. 2. Define metadata. 3. Perform internal QA check.</p>
+        <p class="card-text">1. Develop content using open files and formats. </br> 2. Define metadata. </br> 3. Perform internal QA check.</p>
       </div>
     </div>
   </div>
@@ -87,7 +87,7 @@ hide:
     <div class="card text-white bg-info mb-3" style="max-width: 18rem;">
       <div class="card-body">
         <h5 class="card-title">Verify</h5>
-        <p class="card-text">1. Final QA check. </br> 2. Use gathered feedback for continuous improvement.</p>
+        <p class="card-text">1. Final QA check. </br> </br> 2. Use gathered feedback for continuous improvement.</br></p>
       </div>
     </div>
   </div>
@@ -98,6 +98,7 @@ hide:
     <div class="card bg-light mb-3" style="max-width: 18rem;">
       <div class="card-body">
         <h5 class="card-title">--->>></h5>
+        <p class="card-text"></br></br></br></br></p>
       </div>
     </div>
   </div>
@@ -106,7 +107,7 @@ hide:
     <div class="card bg-light mb-3" style="max-width: 18rem;">
       <div class="card-body">
         <h5 class="card-title">Continuous Improvement</h5>
-        <p class="card-text">1. Create a list of potential improvements. </br> 2. Choose a set of improvements to be implemented and start a new release cycle.</p>
+        <p class="card-text">1. Create a list of potential improvements. </br> 2. Choose a set of improvements to be implemented and start a new release cycle.</br></p>
       </div>
     </div>
   </div>
@@ -115,12 +116,13 @@ hide:
     <div class="card bg-light mb-3" style="max-width: 18rem;">
       <div class="card-body">
         <h5 class="card-title">--->>></h5>
+        <p class="card-text"></br></br></br></br></p>
       </div>
     </div>
   </div>
 </div>
   
-<div class="p-5 mb-2 bg-dark text-white">
+<div class="p-5 m-5 bg-dark text-white">
     <p>Review each stage and the essential steps that it includes.</p> 
     <p>If you have any questions at any stage on your journey do not hesitate to <a href="mailto:sonja.filiposka@finki.ukim.mk">contact the FAIR-by-Design methodology team</a>.</p>
     <p></br>May all your materials be FAIR!</p> 
