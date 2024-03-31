@@ -57,54 +57,47 @@ hide:
 
 <div class="grid cards" markdown>
 
--   :material-clock-fast:{ .lg .middle } __Purpose__
+-   :material-flag-checkered:{ .lg .middle } __Purpose__
 
     ---
 
-    Install [`mkdocs-material`](#) with [`pip`](#) and get up
-    and running in minutes
+   When and how the learning materials can be used and for what purposes?
 
-    [:octicons-arrow-right-24: Getting started](https://google.com)
-
--   :fontawesome-brands-markdown:{ .lg .middle } __Target Audience__
+-   :material-target-account:{ .lg .middle } __Target Audience__
 
     ---
 
-    Focus on your content and generate a responsive and searchable static site
+    Is there anything specific that needs to be taken into account, such as cultural context?
 
-    [:octicons-arrow-right-24: Reference](https://google.com)
-
--   :material-format-font:{ .lg .middle } __Prerequisites__
+-   :material-history:{ .lg .middle } __Prerequisites__
 
     ---
 
-    Change the colors, fonts, language, icons, logo and more with a few lines
+    What does the target audience need to know or understand before starting the learning process?
 
     [:octicons-arrow-right-24: Customization](https://google.com)
 
--   :material-scale-balance:{ .lg .middle } __Scope__
+-   :material-target-account:{ .lg .middle } __Scope__
 
     ---
 
-    Material for MkDocs is licensed under MIT and available on [GitHub](https://github.com)
+    Is it going to be a single learning object, or an aggregation of some sort such as a course?
 
-    !!! info "Lorem ipsum"
+-   :material-bullseye-arrow:{ .lg .middle } __Learning Objectives__
 
-        Lorem ipsum dolor sit amet, consectetur
-        dipiscing elit. Nulla et euismod nulla.
-        Curabitur feugiat, tortor non consequat
-        finibus, justo purus auctor massa, nec
-        semper lorem quam in massa.
+    ---
 
-    [:octicons-arrow-right-24: License](https://google.com)
+    What competences will be gained after successful completing of the learning process?
+
+    ??? info "Be SMART"
+
+        Objectives should be specific, ​measurable, ​attainable, ​relevant and ​time-bound​.
+
+    ??? hint "Use Blooms Taxonomy"
     
--   :material-format-font:{ .lg .middle } __Learning Objectives__
+        Formulate the objectives as actionable verb + observable knowledge, skill, attitude, behavior or ability.
 
-    ---
-
-    Change the colors, fonts, language, icons, logo and more with a few lines
-
-    [:octicons-arrow-right-24: Customization](https://google.com)
+    [:octicons-arrow-right-24: See more](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%201%20%E2%80%93%20Prepare/02-Preparing%20FAIR%20Learning%20Objects/02-Preparing%20FAIR%20Learning%20Objects_cont/#defining-learning-objectives)
 
 </div>
 
