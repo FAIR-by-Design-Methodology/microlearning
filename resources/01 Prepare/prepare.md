@@ -44,14 +44,41 @@ hide:
     - [FAIR learning objects](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%201%20%E2%80%93%20Prepare/01-FAIR%20skills%20%26%20principles/01-FAIR%20skills%20%26%20principles/#fair-learning-objects)
 
 <div class="row">
+  <div class="col-sm-4">
     <div class="card text-white bg-secondary mb-3" >
       <div class="card-header"><i class="fa fa-fast-backward" aria-hidden="true"></i> Think backward</div>
       <div class="card-body">
-        <h5 class="card-title"><a href="https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%201%20%E2%80%93%20Prepare/02-Preparing%20FAIR%20Learning%20Objects/02-Preparing%20FAIR%20Learning%20Objects_cont/#backward-instructional-design-process">Steps of the backward learning process</a></h5>
-        <p class="card-text">1. Start from your desired learning outcomes... </br>2. How are you going to assess their achievement.... </br>3. How should you structure the material to reach them...</p>
+        <h5 class="card-title">Step 1</h5>
+        <p class="card-text">1. Start from your desired learning outcomes...</p>
       </div>
     </div>
+  </div>
+
+    <div class="col-sm-4">
+    <div class="card bg-light mb-3" >
+      <div class="card-header"><i class="fa fa-fast-backward" aria-hidden="true"></i> Think backward</div>
+      <div class="card-body">
+        <h5 class="card-title">Step 2</h5>
+        <p class="card-text">2. How are you going to assess their achievement....</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-sm-4">
+    <div class="card bg-light mb-3" >
+      <div class="card-header"><i class="fa fa-fast-backward" aria-hidden="true"></i> Think backward</div>
+      <div class="card-body">
+        <h5 class="card-title">Step 3</h5>
+        <p class="card-text">3. How should you structure the material to reach them...</p>
+      </div>
+    </div>
+  </div>
+
 </div>
+
+??? info "More on backward learning"
+
+    [Steps of the backward learning process](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%201%20%E2%80%93%20Prepare/02-Preparing%20FAIR%20Learning%20Objects/02-Preparing%20FAIR%20Learning%20Objects_cont/#backward-instructional-design-process)
 
 ## Define
 
