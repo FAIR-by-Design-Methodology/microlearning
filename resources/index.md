@@ -30,9 +30,9 @@ hide:
     - toc
     - navigation
 ---
-<div class="container bg-dark">
-  <div class="row">
-    <div class="col-xl">
+<div class="container bg-dark p-5">
+  <div class="row row-xl p-xl-5">
+    <div class="col col-xl p-xl-5">
         <div class="p-5 m-0 bg-dark text-white">
             <p> Welcome to the FAIR-by-Design microlearning menu. </p>
             <p>Below are the main stages of the FAIR-by-Design Methodology that will help guide you on your journey of creating FAIR learning materials.</p>
