@@ -36,9 +36,7 @@ hide:
     The learning material has a clear usage license (CC-BY-4.0 recommended) and accurate information on provenance.
 
 ## Adopt a metadata schema
-<div class="w-100 p-3" style="background-color: #eee;">
-  <a href="https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%201%20%E2%80%93%20Prepare/02-Preparing%20FAIR%20Learning%20Objects/02-Preparing%20FAIR%20Learning%20Objects/#rda-minimal-metadata-for-learning-resources" class="btn btn-primary">The RDA Minimal Metadata Set for Learning Resources</a>
-</div>
+  <a href="https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%201%20%E2%80%93%20Prepare/02-Preparing%20FAIR%20Learning%20Objects/02-Preparing%20FAIR%20Learning%20Objects/#rda-minimal-metadata-for-learning-resources" class="btn btn-primary btn-lg btn-block">The RDA Minimal Metadata Set for Learning Resources</a>
 
 ??? info "More on FAIR learning objects definition"
 
@@ -55,7 +53,7 @@ hide:
       <div class="card-header"><i class="fa fa-fast-backward" aria-hidden="true"></i> Think backward</div>
       <div class="card-body">
         <h5 class="card-title">Step 1</h5>
-        <p class="card-text">What are your desired learning outcomes...</p>
+        <p class="card-text">What are your desired effects, i.e. learning outcomes...</p>
       </div>
     </div>
   </div>
