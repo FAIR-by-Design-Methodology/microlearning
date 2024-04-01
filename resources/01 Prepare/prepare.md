@@ -70,6 +70,7 @@ hide:
     - *Learning Outcome* =	Descriptions of what knowledge, skills or abilities a learner should acquire on completion of the resource
     - *Expertise (Skill) Level* =	Target skill level in the topic being taught; example values include beginner, intermediate, advanced
 
+> [Hoebelheinrich, Nancy J, Biernacka, Katarzyna, Brazas, Michelle, Castro, Leyla Jael, Fiore, Nicola, Hellström, Margareta, Lazzeri, Emma, Leenarts, Ellen, Martinez Lavanchy, Paula Maria, Newbold, Elizabeth, Nurnberger, Amy, Plomp, Esther, Vaira, Lucia, van Gelder, Celia W G, & Whyte, Angus. (2022). Recommendations for a minimal metadata set to aid harmonised discovery of learning resources (1.0). Zenodo. https://doi.org/10.15497/RDA00073](https://doi.org/10.15497/RDA00073)
 
 ??? info "More on FAIR learning objects definition"
 
