@@ -36,7 +36,7 @@ hide:
 
 <div class="grid cards" markdown>
 
-- :fontawesome-gears: Create an intuitive logical organisation of all learning materials. 
+- :fontawesome-brands-html5: Create an intuitive logical organisation of all learning materials. 
 - :fontawesome-cubes-stacked: The goal is for other people to easily reuse a single item (plan, activity, unit, assessment, ...).
 - :fontawesome-boxes-stacked: Use a hierarchical structure to combine learning units into larger compositions.
 
