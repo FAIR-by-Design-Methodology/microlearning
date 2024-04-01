@@ -33,7 +33,7 @@ hide:
     - Other means of communication
 
 
--   :fontawesome-google-analytics:{ .lg .middle } __Analyse__
+-   :material-google-analytics:{ .lg .middle } __Analyse__
 
     ---
 
