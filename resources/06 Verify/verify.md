@@ -66,7 +66,24 @@ hide:
         
     === "Optional requirements"
 
-        Ipsum
+        - [x] Did you follow the stages of the backward instructional design process while developing the learning resource?
+        - [x] Are controlled vocabularies (CVs) used for describing the resource characteristics aligned with the chosen metadata schema?
+        - [x] Does the learning resource represent a complete learning object defined around minimum one learning objective?
+        - [x] Does the resource incorporate an instructor kit that aids in facilitating the process of others reusing learning material by offering helpful how-to guides?
+            - [x] facilitator guide
+            - [x] activities description
+            - [x] assessment activities and strategy to assess
+            - [x] general learning content or instructor notes
+            - [x] lesson unit plan
+            - [x] syllabus
+        - [x] Have you employed a versioning system to track and control changes in your materials?
+        - [x] Are the resource access rules (how to access, e.g. registration procedure) explicitly communicated to learners?
+        - [x] Is the learning resource searchable in at least one relevant catalogue? 
+            - [x] Is it FAIR (can be searched based on metadata)?
+        - [x] Does the course include the possibility to provide feedback or comments from users and-or trainers/designers? 
+            - [x] If so, do you regularly gather and analyse that feedback?
+        - [x] Does the resource adopt an open community approach regarding its quality and reachability?
+        - [x] Has the learning resource been checked by a third party regarding its learning experience quality?
 
     [:octicons-arrow-right-24: Perform a final QA check](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%206%20%E2%80%93%20Verify/19-Final%20QA%20check/19-finalQA/#self-check-qa)
 
