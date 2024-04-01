@@ -13,7 +13,7 @@ hide:
 
 !!! quote ""
 
-    Greater even than the greatest discovery is to keep open the way to future discovery. – **John Jacob Abel​**
+    Greater even than the greatest discovery is to keep open the way to future discovery. – *John Jacob Abel​*
 
 ​
 ## Get inspired

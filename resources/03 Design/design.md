@@ -13,7 +13,7 @@ hide:
 
 !!! quote ""
 
-    Design is intelligence made visible - **Alina Wheeler​**
+    Design is intelligence made visible - *Alina Wheeler​*
 
 ## Concept
 MVS
