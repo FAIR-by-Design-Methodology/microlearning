@@ -46,7 +46,7 @@ hide:
   <div class="col-sm-4">
     <div class="card text-white bg-primary mb-3" style="max-width: 18rem;">
       <div class="card-body">
-        <h2 class="card-title" color=red;>Prepare</h2>
+        <h2 class="card-title" color=white;>Prepare</h2>
         <p class="card-text">1. Do you understand FAIR and its implications?</br>2. Define purpose, learning objectives, target audience.</p>
         <a href="https://fair-by-design-methodology.github.io/microlearning/latest/01%20Prepare/prepare/" class="btn btn-outline-primary stretched-link">Go to stage</a>
       </div>
