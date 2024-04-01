@@ -66,24 +66,24 @@ hide:
         
     === "Optional requirements"
 
-        - [x] Did you follow the stages of the backward instructional design process while developing the learning resource?
-        - [x] Are controlled vocabularies (CVs) used for describing the resource characteristics aligned with the chosen metadata schema?
-        - [x] Does the learning resource represent a complete learning object defined around minimum one learning objective?
-        - [x] Does the resource incorporate an instructor kit that aids in facilitating the process of others reusing learning material by offering helpful how-to guides?
-            - [x] facilitator guide
-            - [x] activities description
-            - [x] assessment activities and strategy to assess
-            - [x] general learning content or instructor notes
-            - [x] lesson unit plan
-            - [x] syllabus
-        - [x] Have you employed a versioning system to track and control changes in your materials?
-        - [x] Are the resource access rules (how to access, e.g. registration procedure) explicitly communicated to learners?
-        - [x] Is the learning resource searchable in at least one relevant catalogue? 
-            - [x] Is it FAIR (can be searched based on metadata)?
-        - [x] Does the course include the possibility to provide feedback or comments from users and-or trainers/designers? 
-            - [x] If so, do you regularly gather and analyse that feedback?
-        - [x] Does the resource adopt an open community approach regarding its quality and reachability?
-        - [x] Has the learning resource been checked by a third party regarding its learning experience quality?
+        - <i class="fa fa-check-square-o" aria-hidden="true"></i> Did you follow the stages of the backward instructional design process while developing the learning resource?
+        - <i class="fa fa-check-square-o" aria-hidden="true"></i> Are controlled vocabularies (CVs) used for describing the resource characteristics aligned with the chosen metadata schema?
+        - <i class="fa fa-check-square-o" aria-hidden="true"></i> Does the learning resource represent a complete learning object defined around minimum one learning objective?
+        - <i class="fa fa-check-square-o" aria-hidden="true"></i> Does the resource incorporate an instructor kit that aids in facilitating the process of others reusing learning material by offering helpful how-to guides?
+            - <i class="fa fa-check-square-o" aria-hidden="true"></i> facilitator guide
+            - <i class="fa fa-check-square-o" aria-hidden="true"></i> activities description
+            - <i class="fa fa-check-square-o" aria-hidden="true"></i> assessment activities and strategy to assess
+            - <i class="fa fa-check-square-o" aria-hidden="true"></i> general learning content or instructor notes
+            - <i class="fa fa-check-square-o" aria-hidden="true"></i> lesson unit plan
+            - <i class="fa fa-check-square-o" aria-hidden="true"></i> syllabus
+        - <i class="fa fa-check-square-o" aria-hidden="true"></i> Have you employed a versioning system to track and control changes in your materials?
+        - <i class="fa fa-check-square-o" aria-hidden="true"></i> Are the resource access rules (how to access, e.g. registration procedure) explicitly communicated to learners?
+        - <i class="fa fa-check-square-o" aria-hidden="true"></i> Is the learning resource searchable in at least one relevant catalogue? 
+            - <i class="fa fa-check-square-o" aria-hidden="true"></i> Is it FAIR (can be searched based on metadata)?
+        - <i class="fa fa-check-square-o" aria-hidden="true"></i> Does the course include the possibility to provide feedback or comments from users and-or trainers/designers? 
+            - <i class="fa fa-check-square-o" aria-hidden="true"></i> If so, do you regularly gather and analyse that feedback?
+        - <i class="fa fa-check-square-o" aria-hidden="true"></i> Does the resource adopt an open community approach regarding its quality and reachability?
+        - <i class="fa fa-check-square-o" aria-hidden="true"></i> Has the learning resource been checked by a third party regarding its learning experience quality?
 
     [:octicons-arrow-right-24: Perform a final QA check](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%206%20%E2%80%93%20Verify/19-Final%20QA%20check/19-finalQA/#self-check-qa)
 
