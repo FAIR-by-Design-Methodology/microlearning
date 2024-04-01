@@ -175,9 +175,9 @@ hide:
 
 <div class="grid cards" markdown>
 
-- :fontawesome-brands-html5: __QA Self-assessment__ to check if everything is as it should be
-- :fontawesome-brands-js: __Quantitative__ are all required elements produced
-- :fontawesome-brands-css3: __Qualitative__ do all learning units provide materials to reach the learning objectives with different modalities 
+- :material-quality-high: __QA Self-assessment__ to check if everything is as it should be
+- :material-check-all: __Quantitative__ are all required elements produced
+- :material-puzzle-check-outline: __Qualitative__ do all learning units provide materials to reach the learning objectives with different modalities 
 
 </div>
 
