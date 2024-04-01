@@ -17,20 +17,24 @@ hide:
 
 ## Time to brainstorm
 
-<div class="row">
-    <div class="col-sm-4">
-        <div class="card" >
-        <img class="card-img-top" src="../../attachments/brain-3829057_640.jpg" alt="Developing concept map"/>
-            <div class="card-body">
-                <h2 class="card-title">Concept map</h2>
-                <p class="card-text">Build a concept map of your learning materials aligning with the MVS profiles.</br>
+<div class="card mb-3" style="max-width: 540px;">
+  <div class="row no-gutters">
+    <div class="col-md-4">
+      <img class="card-img" src="../../attachments/brain-3829057_640.jpg" alt="Developing concept map"/>
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h2 class="card-title">Concept map</h2>
+        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+        <p class="card-text">Build a concept map of your learning materials aligning with the MVS profiles.</br>
                 Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3829057">Gerd Altmann</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3829057">Pixabay</a></br>
                 </p>
                 <a href="https://fair-by-design-methodology.github.io/MVS/latest/MVS%20Profiles/Civil%20Servant/civil_servant/" class="btn btn-primary stretched-link">Go to MVS profiles catalogue</a>
-            </div>
-        </div>
+      </div>
     </div>
+  </div>
 </div>
+
 ​
 ## Structure is everything
 
