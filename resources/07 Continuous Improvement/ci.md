@@ -11,6 +11,44 @@ hide:
 
 # Stage 7 - Continuos Integration 
 
+!!! quote ""
+
+    To improve is to change; to be perfect is to change often. - *Winston Churchill*
+
+## Gather
+Internal + external feedback
+feedback form
+
+QA recommendations
+
+self-reflection after training
+
+GitHub issues
+
+Fork and pull requests
+
+Direct mail contact
+
+Other means of communication
+
+## Analyse
+
+Create a list of potential improvements with impact level (high, moderate, low)
+
+## Improve
+
+Select items from the list that will be part of a new version
+
+## Repeat
+
+Start a new cycle of the FAIR-by-Design methodology
+
+
+
+​<a href="https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%206%20%E2%80%93%20Verify/20-Continuous%20Improvement/20-CI/" class="btn btn-dark text-white btn-lg btn-block">Start an in-depth training on the Continuous Improvement stage....</a>
+<a href="https://fair-by-design-methodology.github.io/FAIR-by-Design_Book/4%20-%20FAIR-by-design%20learning%20materials%20creation/4.2%20-%20Continuous%20Improvement/417-improvement/" class="btn btn-dark text-white btn-lg btn-block">FAIR-by-Design Methodology: Continuous Improvement stage....</a>
+
+
 ## Small cards example
 
 <div class="grid cards" markdown>
