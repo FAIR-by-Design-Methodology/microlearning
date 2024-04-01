@@ -58,17 +58,17 @@ graph LR
   r --> rm[<a href='https://www.makeareadme.com/'>README</a>];
   r --> l[<a href='https://creativecommons.org/licenses/by/4.0/legalcode.txt'>LICENSE</a>];
   r --> c[<a href='https://citation-file-format.github.io/'>CITATION.cff</a>];
-  r --> mf[miscellaneous files];
+  r --> misc[opt miscellaneous files];
 
   res[resources] --> att[attachments];
   att --> mf[multimedia files];
   res --> f[Feedback];
   f --> fq[<a href='https://github.com/FAIR-by-Design-Methodology/templates/blob/main/resources/Feedback/training_feedback_template.md'>survey</a>];
-  res --> s1[(opt) 01 Section Name];
+  res --> s1[opt 01 Section Name];
   res --> s[<a href='https://github.com/FAIR-by-Design-Methodology/templates/blob/main/resources/syllabus.md'>Syllabus</a>];
   res --> fg[<a href='https://github.com/FAIR-by-Design-Methodology/templates/blob/main/resources/template_facilitator_guide.md'>Facilitator Guide</a>];
 
-  s1 --> m1[(opt) 01 Module Name];
+  s1 --> m1[opt 01 Module Name];
   m1 --> lu1[01 Learning Unit Name];
   m1 --> lux[...];
   m1 --> luN[N Learning Unit Name];
@@ -76,11 +76,17 @@ graph LR
   lu1 --> act[Activities];
   lu1 --> ass[Assessment];
   lu1 --> at[attachments];
+  at --> mff[multimedia files];
   lu1 --> lc[Learning Content];
   lu1 --> sd[Slide Deck];
   lu1 --> lp[Learning Unit Plan];
 
+  act --> a1[01 activity desc];
+  act --> ax[...];
+  act --> aK[K activity desc];
 
+  ass --> qb[questions];
+  ass --> st[opt strategy];
 
 ```
 
