@@ -50,7 +50,7 @@ hide:
 
 !!! example "How to organise the files"
 
-    The diagram shows how to organise all files. Click on the links to discover and use pre-prepared templates.
+    The diagram shows how to organise all files in folders and subfolders. Click on the links to discover and use pre-prepared templates.
 
 ``` mermaid
 graph LR
@@ -111,15 +111,15 @@ graph LR
 
 <div class="grid cards" markdown>
 
-- :fontawesome-brands-html5: __Set Learning Objectives__ ... what is the goal
-- :fontawesome-brands-js: __Identify Needs__ ... how to get there 
-- :fontawesome-brands-css3: __Plan__ ... share the agenda
-- :fontawesome-brands-internet-explorer: __Hook__ ... why is the content important
-- :fontawesome-brands-internet-explorer: __Instruct__ ... watch how I do it
-- :fontawesome-brands-internet-explorer: __Practise__ ... you help me do it, I'll watch you do it
-- :fontawesome-brands-internet-explorer: __Wrap-Up__ ... foster retention and reinforcement
-- :fontawesome-brands-internet-explorer: __Evaluate__ ... monitor progress
-- :fontawesome-brands-internet-explorer: __Reflect__ ... how did it go?
+- <i class="fa fa-bullseye" aria-hidden="true"></i> __Set Learning Objectives__ ... what is the goal
+- <i class="fa fa-question-circle" aria-hidden="true"></i> __Identify Needs__ ... how to get there 
+- <i class="fa fa-list-alt" aria-hidden="true"></i> __Plan__ ... share the agenda
+- <i class="fa fa-heartbeat" aria-hidden="true"></i> __Hook__ ... why is the content important
+- <i class="fa fa-user-secret" aria-hidden="true"></i> __Instruct__ ... watch how I do it
+- <i class="fa fa-code-fork" aria-hidden="true"></i> __Practise__ ... you help me do it, I'll watch you do it
+- <i class="fa fa-hand-o-right" aria-hidden="true"></i> __Wrap-Up__ ... foster retention and reinforcement
+- <i class="fa fa-question-circle" aria-hidden="true"></i> __Evaluate__ ... monitor progress
+- <i class="fa fa-info-circle" aria-hidden="true"></i> __Reflect__ ... how did it go?
 
 </div>
 
