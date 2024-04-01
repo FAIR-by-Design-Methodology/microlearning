@@ -37,8 +37,8 @@ hide:
 <div class="grid cards" markdown>
 
 - <i class="fa fa-cogs" aria-hidden="true"></i> Create an intuitive logical organisation of all learning materials. 
-- :fontawesome-cubes-stacked: The goal is for other people to easily reuse a single item (plan, activity, unit, assessment, ...).
-- :fontawesome-boxes-stacked: Use a hierarchical structure to combine learning units into larger compositions.
+- <i class="fa fa-cubes" aria-hidden="true"></i> The goal is for other people to easily reuse a single item (plan, activity, unit, assessment, ...).
+- <i class="fa fa-sitemap" aria-hidden="true"></i> Use a hierarchical structure to combine learning units into larger compositions.
 
 </div>
 
