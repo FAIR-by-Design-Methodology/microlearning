@@ -39,7 +39,7 @@ hide:
                 <i class="fa fa-bar-chart fa-3x" aria-hidden="true"></i>
                 <h2 class="card-title">Analyse</h2>
                 <p class="card-text">Analyse the gathered information in a structured way.</p>
-                <p class="card-text">Create a list of potential improvements with impact level (high, moderate, low). </br></br></br></br></br>
+                <p class="card-text">Create a list of potential improvements with impact level (high, moderate, low). </br></br></br></br></br></br>
                 </p>
             </div>
         </div>
@@ -51,7 +51,7 @@ hide:
                 <h2 class="card-title">Improve</h2>
                 <p class="card-text">Select items from the list that will be part of a new version.</p>
                 <p class="card-text">Choose items that make sense to be in the same new release.
-                </br></br></br></br></br></br></br>
+                </br></br></br></br></br></br></br></br>
                 </p>
             </div>
         </div>
@@ -62,7 +62,7 @@ hide:
                 <i class="fa fa-repeat fa-3x" aria-hidden="true"></i>
                 <h2 class="card-title">Repeat</h2>
                 <p class="card-text">Start a new cycle of the FAIR-by-Design methodology that will implement the selected items.</p>
-                <p class="card-text">After the Verify stage, you will reenter continuous improvement with newly gathered information....</br></br></br>
+                <p class="card-text">After the Verify stage, you will reenter continuous improvement with newly gathered information....</br></br></br></br>
                 </p>
             </div>
         </div>
