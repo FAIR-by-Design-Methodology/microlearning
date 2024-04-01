@@ -93,7 +93,7 @@ hide:
 
     If you are working on GitHub using the provided templates repository then the "publish to Zenodo" step is fully automated for you. Just follow the [guide to publishing](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%205%20%E2%80%93%20Publish/17-Zenodo%20Publishing/17-Zenodo%20Publishing/).
 
-!!! warning "To training catalogue"
+??? warning "To training catalogue"
 
     You are at the point when you should also consider making a record in a relevant training catalogue such as the EOSC training catalogue.
 
@@ -102,7 +102,7 @@ hide:
 <div class="card w-100 mb-3">
   <div class="row no-gutters">
     <div class="col-md-4" style="width: 18rem;">
-      <img class="card-img" src="../../attachments/Zenodo_logo.png" alt="Zenodo logo"/>
+      <img class="card-img" src="../../attachments/Moodle-logo.svg.png" alt="Moodle logo"/>
       <p class="card-text"><small class="text-muted">
                 <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Moodle-logo.svg/320px-Moodle-logo.svg.png">Moodle logo</a> by <a href="https://moodle.org/">Moodle.org</a> from <a href="https://en.m.wikipedia.org/wiki/File:Moodle-logo.svg">Wikipedia</a> licensed under the <a href="https://en.wikipedia.org/wiki/en:GNU_General_Public_License">GNU General Public License</a>. </small>
                 </p>
