@@ -1131,11 +1131,12 @@
         <p class="card-text">Build a concept map of your learning materials aligning with the MVS profiles.</p>
         <p class="card-text">The aligned MVS profile can help you cristalize the learning objectives using MVS taxonomy.</p>
         <p class="card-text">Each MVS profile defines a list of technical and soft skills required for the profile. Think on how to incorporate both aspects in your learning materials.</p>
+        <a href="https://fair-by-design-methodology.github.io/MVS/latest/MVS%20Profiles/Civil%20Servant/civil_servant/" class="btn btn-dark stretched-link">Go to MVS profiles catalogue</a>
+            </div>
       </div>
     </div>
   </div>
 </div>
-
 <p>​</p>
 <h2 id="structure-is-everything">Structure is everything</h2>
 <div class="grid cards">
@@ -1146,131 +1147,7 @@
 </ul>
 </div>
 <h2 id="diagrams-example">Diagrams Example</h2>
-<pre class="mermaid"><code>graph LR
-root: Root
-root.shape: package
-
-res: resources
-root.shape: package
-
-rm: README
-rm.shape: page
-
-l: LICENSE
-l.shape: page
-
-c: CITATION.cff
-c.shape: page
-
-misc: (opt) Miscellaneous files
-misc.shape: document
-
-a: attachments
-a.shape: package
-
-f: Feedback
-f.shape: package
-
-s1: (opt) 01 Section Name
-s1.shape: package
-
-s: syllabus
-s: page
-
-fg: facilitator guide
-fg.shape: page
-
-mf: media files
-mf: document
-
-fqf: feedback questions
-fdf.shape: page
-
-m1: (opt) 01 Module Name
-m1.shape: package
-
-l1: 01 Learning Unit Name
-l1.shape: package
-
-lx: ...
-lx.shape: package
-
-lN: N Learning Unit Name
-lN.shape: package
-
-act: Activities
-act.shape: package
-
-ass: Assessment
-ass.shape: package
-
-att: attachments
-att.shape: package
-
-amf: media files
-amf.shape: document
-
-lc: Learning Content Description
-lc.shape: page
-
-sd: Slide Deck
-sd.shape: page
-
-lup: Learning Unit Plan
-lup.shape: page
-
-act1: 01 activity details
-act1.shape: page
-
-actx: ... activity details
-actx.shape: page
-
-actK: K activity details
-actK.shape: page
-
-assq: Assessment questions
-assq.shape: page
-
-asss: (opt) Assessment strategy
-asss.shape: page
-
-root -- res
-root -- rm
-root -- l
-root -- c
-root -- misc
-
-res -- a
-res -- f
-res -- s1
-res --s 
-res -- fg
-
-a -- mf
-
-f -- fqf
-
-s1 -- m1
-
-m1 -- l1
-m1 -- lx
-m1 -- lN
-
-l1 -- act
-l1 -- ass
-l1 -- att
-l1 -- lc
-l1 -- sd
-l1 -- lup
-
-act -- act1
-act -- actx
-act -- actK
-
-ass -- assq
-ass -- asss
-
-att -- amf
+<pre class="mermaid"><code>
 
 
   A[Start] --&gt; B{Error?};
