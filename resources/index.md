@@ -109,7 +109,6 @@ hide:
     <div class="card bg-light mb-3" style="max-width: 18rem;">
       <div class="card-body">
         <i class="fa fa-refresh fa-spin fa-3x fa-fw"></i>
-        <p class="card-text"></br></br></br></br></br></br></p>
       </div>
     </div>
   </div>
@@ -128,7 +127,6 @@ hide:
     <div class="card bg-light mb-3" style="max-width: 18rem;">
       <div class="card-body">
         <i class="fa fa-refresh fa-spin fa-3x fa-fw"></i>
-        <p class="card-text"></br></br></br></br></br></br></p>
       </div>
     </div>
   </div>
