@@ -24,15 +24,25 @@ hide:
             <div class="card-body">
                 <h5 class="card-title">Concept map</h5>
                 <p class="card-text">Build a concept map of your learning materials aligning with the MVS profiles.</br>
-                Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3829057">Gerd Altmann</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3829057">Pixabay</a>
+                Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3829057">Gerd Altmann</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3829057">Pixabay</a></br>
                 <a href="https://fair-by-design-methodology.github.io/MVS/latest/MVS%20Profiles/Civil%20Servant/civil_servant/" class="btn btn-primary stretched-link">Go to MVS profiles catalogue</a>
             </div>
         </div>
     </div>
 </div>
 ​
-## Structure
-logical organisation
+## Structure is everything
+
+<div class="grid cards" markdown>
+
+- :fontawesome-cogs: Create an intuitive logical organisation of all learning materials. 
+- :fontawesome-tasks: The goal is for other people to easily reuse a single item (plan, activity, unit, assessment, ...).
+- :fontawesome-sitemap: Use a hierarchical structure to combine learning units into larger compositions.
+
+</div>
+
+
+
 
 ## Develop
 Hunter
