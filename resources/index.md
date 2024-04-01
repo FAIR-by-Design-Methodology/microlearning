@@ -4,25 +4,25 @@ title: "FAIR-by-Design Microlearning"
 author: 
     - Skills4EOSC T2.3
 tags: 
-    - FAIR-by-Design
-    - FAIR Learning Objects
-    - Microlearning
+    - FAIR
+    - FAIR learning materials
+    - FAIR-by-Design methodology
+    - Practical implementation 
 
-abstract: "A brief synopsis about or description of the learning resource."
-primaryLanguage: "two letter code, Language in which the resource was originally published or made available."
-license: "A license document that applies to this content, typically indicated by URL"
-versionDate: "YYYY-MM-DD Version date for the most recently published or broadcast resource."
+abstract: "Short how to guide that helps project members follow the stages of the FAIR-by-Design methodology without any specific choice on tools and formats."
+primaryLanguage: "EN"
+license: "CC-BY-4.0"
+versionDate: "2024-04-01"
 urlToResource: "https://doi.org/10.5072/zenodo.1234567"
 resourceURLType: "URL"
-targetGroup: "Principle users(s) for which the resource was designed."
-learningResourceType: "The predominant type or kind that characterizes the learning resource."
+targetGroup: "Skills4EOSC project members"
+learningResourceType: "HTML"
 learningOutcome: 
-    - Descriptions of what knowledge, 
-    - skills or 
-    - abilities 
-    - students should acquire on completion of the resource.
-accessCost: "Choice stating whether or not there is a fee for use of the resource (CV = Y/N/Maybe with recommendation that further explanation of “Maybe” goes in the Description field"
-expertiseLevel: "Target skill level in the topic being taught; example values include: beginner, intermediate, advanced"
+    - Structure FAIR learning materials
+    - Create and publish FAIR-by-Design learning materials
+    - Assess FAIR-ness of learning objects
+accessCost: "N"
+expertiseLevel: "beginner"
 # template is a reserved keyword related to publishing of the Git book itself and not part of the RDA metadata schema. Please leave it as is and don't edit it manually
 template: signposting.html
 # hide is a reserved keyword related to the layout of the landing page and not part of the RDA metadata schema. Please leave it as is and don't edit it manually

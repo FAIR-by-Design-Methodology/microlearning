@@ -1,29 +1,29 @@
 ---
 # RDA learning materials metadata minimal set
-title: "Home"
+title: "About"
 author: 
-    - Name of entity(ies) 
-    - authoring the resource
+    - Sonja Filiposka
+    - Anastas Mishev
 tags: 
-    - Keywords
-    - Tags 
-    - Resource Description
+    - FAIR
+    - FAIR learning materials
+    - FAIR-by-Design methodology
+    - Practical implementation 
 
-abstract: "A brief synopsis about or description of the learning resource."
-primaryLanguage: "two letter code, Language in which the resource was originally published or made available."
-license: "A license document that applies to this content, typically indicated by URL"
-versionDate: "YYYY-MM-DD Version date for the most recently published or broadcast resource."
+abstract: "Short how to guide that helps project members follow the stages of the FAIR-by-Design methodology without any specific choice on tools and formats."
+primaryLanguage: "EN"
+license: "CC-BY-4.0"
+versionDate: "2024-04-01"
 urlToResource: "https://doi.org/10.5072/zenodo.1234567"
 resourceURLType: "URL"
-targetGroup: "Principle users(s) for which the resource was designed."
-learningResourceType: "The predominant type or kind that characterizes the learning resource."
+targetGroup: "Skills4EOSC project members"
+learningResourceType: "HTML"
 learningOutcome: 
-    - Descriptions of what knowledge, 
-    - skills or 
-    - abilities 
-    - students should acquire on completion of the resource.
-accessCost: "Choice stating whether or not there is a fee for use of the resource (CV = Y/N/Maybe with recommendation that further explanation of “Maybe” goes in the Description field"
-expertiseLevel: "Target skill level in the topic being taught; example values include: beginner, intermediate, advanced"
+    - Structure FAIR learning materials
+    - Create and publish FAIR-by-Design learning materials
+    - Assess FAIR-ness of learning objects
+accessCost: "N"
+expertiseLevel: "beginner"
 # template is a reserved keyword related to publishing of the Git book itself and not part of the RDA metadata schema. Please leave it as is and don't edit it manually
 template: signposting.html
 # hide is a reserved keyword related to the layout of the landing page and not part of the RDA metadata schema. Please leave it as is and don't edit it manually
@@ -38,16 +38,52 @@ hide:
 
 {!RELEASE_NOTES.md!}
 
+## Self-paced how to FAIR-by-Design guide
+
+## Location
+
+- online: [https://fair-by-design-methodology.github.io/microlearning/latest/](https://fair-by-design-methodology.github.io/microlearning/latest/)
+
+## Training Description
+
+Short how to guide that helps project members follow the stages of the FAIR-by-Design methodology without any specific choice on tools and formats.
+
+## Target audience
+
+All Skills4EOSC project members that will need to develop learning materials for any type of project-related training.
+
+## Expertise Level / Skill Level: Beginner
+
+## Primary Language: English
+
+## Access Cost: No
+
+## Prerequisites
+
+No prior knowledge is required.
+
+## Learning Objectives
+
+- Structure FAIR learning materials
+- Create and publish FAIR-by-Design learning materials
+- Assess FAIR-ness of learning objects
+
+## Keywords
+
+FAIR, learning objects, methodology, practical implementation
+
+## Certification Information
+
+This training has no certification or any recognition mechanism included.
 
 ## Author(s)
 
-- List of people involved in preparing the training
-- format: Name Surname, comma separated
+- Sonja Filiposka, Dominique Green, Anastas Mishev, Vojdan Kjorveziroski, Andrea Corleto, Eleornora Napolitano, Gabriella Paolini, Sara di Giorgio, Joanna Janik, Luca Schirru, Arnaud Gingold, Christine Chardosek, Irakleitos Souyioultzoglou, Carolin Leister, Emma Lazzeri
 
 
 ## Contact information
 
-- how to reach out to training organizers
+- For more information please contact the T2.3 FAIR-by-Design Methodology Task Leader Sonja Filiposka using [sonja.filiposka@finki.ukim.mk](mailto:sonja.filiposka@finki.ukim.mk).
 
 ## License
 
