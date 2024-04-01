@@ -77,16 +77,16 @@ graph LR
   lu1 --> ass[Assessment];
   lu1 --> at[attachments];
   at --> mff[multimedia files];
-  lu1 --> lc[Learning Content];
-  lu1 --> sd[Slide Deck];
-  lu1 --> lp[Learning Unit Plan];
+  lu1 --> lc[<a href='https://github.com/FAIR-by-Design-Methodology/templates/blob/main/resources/Learning%20Unit/template_content.md'>Learning Content</a>];
+  lu1 --> sd[<a href='https://github.com/FAIR-by-Design-Methodology/templates/blob/main/resources/Learning%20Unit/Learning_unit_content.pptx'>Slide Deck</a>];
+  lu1 --> lp[<a href='https://github.com/FAIR-by-Design-Methodology/templates/blob/main/resources/Learning%20Unit/template_unit_lesson_plan.md'>Learning Unit Plan</a>];
 
-  act --> a1[01 activity desc];
+  act --> a1[<a href='https://github.com/FAIR-by-Design-Methodology/templates/blob/main/resources/Learning%20Unit/Activities/activity_details_template.md'>01 activity desc</a>];
   act --> ax[...];
-  act --> aK[K activity desc];
+  act --> aK[<a href='https://github.com/FAIR-by-Design-Methodology/templates/blob/main/resources/Learning%20Unit/Activities/activity_details_template.md'>K activity desc</a>];
 
-  ass --> qb[questions];
-  ass --> st[opt strategy];
+  ass --> qb[<a href='https://github.com/FAIR-by-Design-Methodology/templates/blob/main/resources/Learning%20Unit/Assessment/assessment_template.md'>questions</a>];
+  ass --> st[<a href='https://github.com/FAIR-by-Design-Methodology/templates/blob/main/resources/Learning%20Unit/Assessment/assessment_template.md'>opt strategy</a>];
 
 ```
 
