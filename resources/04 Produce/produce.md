@@ -21,38 +21,27 @@ hide:
 
 ??? info "Collaborative environment for team work"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+    Choose an environment for producing the learning material that will enable multiple people to work on the same material at one. Two examples are workplace or GitHub. Replicate the folder tree in the environment and start using the provided templates to generate the content.
 
 ??? tip "Granular versioning for easy rollback"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+    Versioning helps you maintain control over your changes. If the collaborative environment does not provide versioning and history retention then keep a history of the files by adopting a naming convention such as combining the file name with an increasing version number.
 
 ??? success "Open file formats to foster reuse "
 
-    or clearly state the tools that have been used for development.
+    For other people to reuse your materials they should be made available using open file formats (docx, pptx, pdf, md, html, etc.). If you use close file formats then you MUST clearly state the tools that have been used for development in your README file.
 
-??? warning "Multimodal content for all audience"
+??? warning "Multimodal content to reach all audience"
 
-    media to cover different modalities. 
+    Don't forget to include different types of multimedia to provide support for different learning modalities: read/write, auditory, visual, kinesthetic.
     
-??? example "Two file sets: editable for instructors, final for learners"
+??? example "Two file sets: editable + final"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+    Always work with and keep a history of your editable files. These are what matters for you and other instructors. The second set of final files should be obtained from the editable when needed (before distributing them to the learners). The final files should be kept on the learning platform only. In this way you don't need to worry about keeping the versions in sync.
 
-??? bug "Don't forget support co-creation"
+??? bug "Don't forget to support co-creation"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
-
-
-
+    Truly FAIR learning materials should enable co-creation with external parties. If you don't use a collaborative environment that supports this from the start (such as GitHub), then think how are you going to enable this in the future and how are you going to deal with versioning then.
 
 </div>
 
