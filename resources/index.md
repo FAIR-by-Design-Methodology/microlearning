@@ -104,7 +104,7 @@ hide:
   </div>
 </div>
 
-<div class="card w-100 bg-light mb-3">
+<div class="card w-100 bg-light mb-3 text-center">
     <div class="card-body">
     <h2 class="card-title">Continuous Improvement</h2>
     <p class="card-text">1. Create a list of potential improvements. </br></br> 2. Choose a set of improvements to be implemented and start a new release cycle.</br></p>
