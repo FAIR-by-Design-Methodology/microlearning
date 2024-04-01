@@ -105,8 +105,8 @@ hide:
 </div>
 
 <div class="row row-cols-1">
-  <div class="col-sm-4 w-100">
-    <div class="card bg-light mb-3" style="max-width: 18rem;">
+  <div class="col-sm-4">
+    <div class="card w-100 bg-light mb-3">
       <div class="card-body">
         <h2 class="card-title">Continuous Improvement</h2>
         <p class="card-text">1. Create a list of potential improvements. </br></br> 2. Choose a set of improvements to be implemented and start a new release cycle.</br></p>
