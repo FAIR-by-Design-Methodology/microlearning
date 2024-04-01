@@ -52,14 +52,10 @@ hide:
 ## Diagrams Example
 
 ``` mermaid
-
-
-
-  A[Start] --> B{Error?};
-  B[example <a href='https://google.com'>link</a>] -->|Yes| C[Hmm...];
+  A[Start] --> B;
+  B[example <a href='https://google.com'>link</a>] --> C;
   C[<a href='https://google.com'>just a link</a>] --> D[Debug];
-  D --> B;
-  B ---->|<a href='https://google.com'>No</a>| E[Yay!];
+  B ---->E[Yay!];
 ```
 
 
