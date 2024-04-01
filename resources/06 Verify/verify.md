@@ -46,22 +46,22 @@ hide:
 
         ??? abstract "Findable"
 
-            Is the complete learning resource (including instructors info) registered or indexed in at least one searchable repository? Is it in a FAIR repository?</br>
+            Is the complete learning resource (including instructors info) registered or indexed in at least one searchable repository? Is it in a FAIR repository?</br></br>
             Is metadata for the resource provided in both human- and machine-readable format (e.g JSON, XMLor YAML?
 
         ??? success "Accessible"
 
-            Has an accessibility checker tool been utilised to improve the accessibility of all learning resource files (PDF, HTML, video, etc.)? </br>
+            Has an accessibility checker tool been utilised to improve the accessibility of all learning resource files (PDF, HTML, video, etc.)? </br></br>
             Are access rules (authentication & authorisation) implemented for the learning resource?
         
         ??? info "Interoperable"
 
-            Is the RDA minimal (or domain specific) metadata schema used for the learning material description?</br>
+            Is the RDA minimal (or domain specific) metadata schema used for the learning material description?</br></br>
             Is the resource available in open file formats which are tool agnostic and compatible with a wide variety of existing software?
         
         ??? danger "Resuable"
 
-            Is there clear attribution for all reused resources with compatible licenses? </br>
+            Is there clear attribution for all reused resources with compatible licenses? </br></br>
             Has the learning resource been made available for use by defining a permissable license or policy information that allows derivations?
         
     === "Optional requirements"
