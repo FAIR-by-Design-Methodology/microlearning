@@ -104,29 +104,13 @@ hide:
   </div>
 </div>
 
-<div class="row">
-  <div class="col-sm-4">
-    <div class="card bg-light mb-3" style="max-width: 18rem;">
-      <div class="card-body">
-        <i class="fa fa-refresh fa-spin fa-3x fa-fw"></i>
-      </div>
-    </div>
-  </div>
-
+<div class="row row-cols-1">
   <div class="col-sm-4">
     <div class="card bg-light mb-3" style="max-width: 18rem;">
       <div class="card-body">
         <h2 class="card-title">Continuous Improvement</h2>
         <p class="card-text">1. Create a list of potential improvements. </br></br> 2. Choose a set of improvements to be implemented and start a new release cycle.</br></p>
         <a href="https://fair-by-design-methodology.github.io/microlearning/latest/06%20Verify/verify/" class="btn btn-dark stretched-link">Go to stage</a>
-      </div>
-    </div>
-  </div>
-
-  <div class="col-sm-4">
-    <div class="card bg-light mb-3" style="max-width: 18rem;">
-      <div class="card-body">
-        <i class="fa fa-refresh fa-spin fa-3x fa-fw"></i>
       </div>
     </div>
   </div>
