@@ -89,6 +89,10 @@ graph LR
   ass --> st[<a href='https://github.com/FAIR-by-Design-Methodology/templates/blob/main/resources/Learning%20Unit/Assessment/assessment_template.md'>opt strategy</a>];
 
 ```
+!!! info "Syllabus is ready" 
+
+    You should by now have the first draft of your syllabus. It contains all the fields from the RDA min metadata set plus the high level topics covered by the learning material.
+
 ??? info "Available feedback form"
 
     The feedback form template is ready to be used as is. All you need to do is change the name of the training. It should be shared with training participants after the training, to gather quantitative and qualitative feedback.
