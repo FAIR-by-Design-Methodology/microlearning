@@ -52,12 +52,21 @@ hide:
 
 ``` mermaid
 graph LR
-  A[Start] --> B;
-  B[example <a href='https://google.com'>link</a>] --> C;
-  C[<a href='https://google.com'>just a link</a>] --> D[Debug];
-  B ---->E[Yay!];
-  A --> C;
-  A --> D;
+  r[root] --> res;
+  r --> rm[<a href='https://www.makeareadme.com/'>README</a>];
+  r --> l[<a href='https://creativecommons.org/licenses/by/4.0/legalcode.txt'>LICENSE</a>];
+  r --> c[<a href='https://citation-file-format.github.io/'>CITATION.cff</a>];
+  r --> mf[miscellaneous files];
+
+  res[resources] --> att[attachments];
+  att --> mf[multimedia files];
+  res --> f[Feedback];
+  f --> fq[<a href='https://github.com/FAIR-by-Design-Methodology/templates/blob/main/resources/Feedback/training_feedback_template.md'>survey</a>]
+  res --> s1[(opt) 01 Section Name];
+  res --> s[<a href='https://github.com/FAIR-by-Design-Methodology/templates/blob/main/resources/syllabus.md'>Syllabus</a>];
+  res --> fg[<a href='https://github.com/FAIR-by-Design-Methodology/templates/blob/main/resources/template_facilitator_guide.md'>Facilitator Guide</a>]
+
+
 ```
 
 
