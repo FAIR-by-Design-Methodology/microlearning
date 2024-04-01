@@ -56,7 +56,7 @@ hide:
 
     [:octicons-arrow-right-24: Code of conduct template](https://github.com/probot/template/blob/master/CODE_OF_CONDUCT.md)
 
--   :material-scale-balance:{ .lg .middle } __RELEASE NOTES__
+-   :material-message-bulleted:{ .lg .middle } __RELEASE NOTES__
 
     ---
 
