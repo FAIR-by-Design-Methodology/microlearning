@@ -90,7 +90,11 @@ hide:
 </div>
 
 
-Feedback QA - gather from both perspectives
+## Feedback QA 
+
+!!! example "Regularly gather feedback from learners and instructors"
+
+    Ensure that you actively and regularly gather feedback from both perspectives: the learners and the instructors.
 
 
 ​<a href="https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%206%20%E2%80%93%20Verify/19-Final%20QA%20check/19-finalQA/" class="btn btn-dark text-white btn-lg btn-block">Start an in-depth training on the Verify stage....</a>
