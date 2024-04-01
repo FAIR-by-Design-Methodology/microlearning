@@ -15,31 +15,41 @@ hide:
 
     To contrive is nothing! To construct is something! To produce is everything! - *Edward Rickenbacker​*
 
-## Tools & Formats
+## Choose Tools & Formats
 
-Editable vs Final
-Open file formats
-Web & Multimedia friendly
-Granular versioning
-Collaborative environment
-Straightforward conflict resolution
+Collaborative environment for team work
+
+Granular versioning for easy rollback
+
+Open file formats to foster reuse 
+    or clearly state the tools that have been used for development
+
+Multimodal content for all audience 
+    media to cover different modalities
+
+Two file sets: editable for instructors, final for learners
+
+Don't forget support co-creation
+
+
+## Plan to reuse existing material? 
+
+1. check the license 
+2. attribute
+
 
 
 ## Accessibility
 
 Cover the widest range of learner variability
 w+w/o assistive technology
+
 W3C WCAG 2.1(2.2)
 PDF/UA
+
 Use accessibility evaluation tools!
 
 
-## Reiterate
-
-Back and forth iterations
-Metadata = human + machine – readable
-License
-Facilitation Guide
 
 
 
