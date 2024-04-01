@@ -42,7 +42,7 @@ hide:
 </div>
 
 
-<div class="row">
+<div class="row row-cols-3">
   <div class="col-sm-4">
     <div class="card text-white bg-primary mb-3" style="max-width: 18rem;">
       <div class="card-body">
@@ -105,7 +105,7 @@ hide:
 </div>
 
 <div class="row row-cols-1">
-  <div class="col-sm-4">
+  <div class="col-sm-4 mw-100">
     <div class="card bg-light mb-3" style="max-width: 18rem;">
       <div class="card-body">
         <h2 class="card-title">Continuous Improvement</h2>
