@@ -101,7 +101,7 @@ graph LR
 
     All templates are readily available for use in the specialised [templates repository](https://github.com/FAIR-by-Design-Methodology/templates). See the detailed training on how to use it step by step.
 
-??? question "What about instructor notes"
+??? question "What about instructor notes?"
 
     Need to be detailed enough so that anyone can reuse the slides properly. Don't put them in the slide deck. This is what the learning content file is for.
 
