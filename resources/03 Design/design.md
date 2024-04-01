@@ -89,19 +89,41 @@ graph LR
   ass --> st[<a href='https://github.com/FAIR-by-Design-Methodology/templates/blob/main/resources/Learning%20Unit/Assessment/assessment_template.md'>opt strategy</a>];
 
 ```
+??? info "Available feedback form"
+
+    The feedback form template is ready to be used as is. All you need to do is change the name of the training. It should be shared with training participants after the training, to gather quantitative and qualitative feedback.
+
+??? info "Available facilitation guide kit"
+
+    The facilitation guide should help prepare for the actual training. If you don't want to develop your own, use something that is already available such as the [TRIPLE project TRAINING TOOLKIT](https://project.gotriple.eu/project-deliverables/triple-training-toolkit/).
+
+??? info "Don't worry, we got you covered with templates​"
+
+    All templates are readily available for use in the specialised [templates repository](https://github.com/FAIR-by-Design-Methodology/templates). See the detailed training on how to use it step by step.
 
 
+## How to develop the learning content
 
-## Develop
-Hunter
+<a href="https://www.csun.edu/sites/default/files/Holle-Lesson-Planning.pdf" class="btn btn-primary btn-lg btn-block">Use the Hunter Model</a>
 
-## Facilitation Guide
+<div class="grid cards" markdown>
 
-## Feedback Form
+- :fontawesome-brands-html5: __Set Learning Objectives__ ... what is the goal
+- :fontawesome-brands-js: __Identify Needs__ ... how to get there 
+- :fontawesome-brands-css3: __Plan__ ... share the agenda
+- :fontawesome-brands-internet-explorer: __Hook__ ... why is the content important
+- :fontawesome-brands-internet-explorer: __Instruct__ ... watch how I do it
+- :fontawesome-brands-internet-explorer: __Practise__ ... you help me do it, I'll watch you do it
+- :fontawesome-brands-internet-explorer: __Wrap-Up__ ... foster retention and reinforcement
+- :fontawesome-brands-internet-explorer: __Evaluate__ ... monitor progress
+- :fontawesome-brands-internet-explorer: __Reflect__ ... how did it go?
+
+</div>
+
 ​
 
 ​
-Don't worry, we got you covered with templates​
+
 
 <a href="https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%203%20%E2%80%93%20Design/04-Conceptualisation/04-Conceptualisation/" class="btn btn-dark text-white btn-lg btn-block">Start an in-depth training on the Design stage....</a>
 <a href="https://fair-by-design-methodology.github.io/FAIR-by-Design_Book/4%20-%20FAIR-by-design%20learning%20materials%20creation/4.1%20-%20Workflow%20stages%20description/413-design/" class="btn btn-dark text-white btn-lg btn-block">FAIR-by-Design Methodology: Design stage....</a>
