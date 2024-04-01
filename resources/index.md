@@ -108,8 +108,7 @@ hide:
   <div class="col-sm-4">
     <div class="card bg-light mb-3" style="max-width: 18rem;">
       <div class="card-body">
-        <i class="fa fa-camera-retro fa-5x"></i>
-        <h5 class="card-title">--->>></h5>
+        <i class="fa fa-refresh fa-spin fa-3x fa-fw"></i>
         <p class="card-text"></br></br></br></br></br></br></p>
       </div>
     </div>
@@ -128,7 +127,7 @@ hide:
   <div class="col-sm-4">
     <div class="card bg-light mb-3" style="max-width: 18rem;">
       <div class="card-body">
-        <h5 class="card-title">--->>></h5>
+        <i class="fa fa-refresh fa-spin fa-3x fa-fw"></i>
         <p class="card-text"></br></br></br></br></br></br></p>
       </div>
     </div>
