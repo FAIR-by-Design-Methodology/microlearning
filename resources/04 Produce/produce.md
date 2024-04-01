@@ -125,7 +125,10 @@ hide:
 <div class="card w-100 mb-3">
   <div class="row no-gutters">
     <div class="col-md-4" style="width: 18rem;">
-      <i class="fa fa-universal-access fa-5x" aria-hidden="true"></i>
+      <img class="card-img" src="../../attachments/universal-access-6602642_640.png" alt="Accessibility logo"/>
+      <p class="card-text"><small class="text-muted">
+                Image by <a href="https://pixabay.com/users/inspire-studio-22128832/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=6602642">J S</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=6602642">Pixabay</a>
+                </p>
     </div>
     <div class="col-md-8" style="width: 36rem;">
       <div class="card-body">
@@ -141,7 +144,7 @@ hide:
 
 <div class="grid cards" markdown>
 
--   :material-format-font:{ .lg .middle } __Use accessibility evaluation tools!__
+-   :material-human:{ .lg .middle } __Use accessibility evaluation tools!__
 
     ---
 
@@ -165,9 +168,6 @@ hide:
         Check accessibility in Adobe Acrobat Pro.
 
         Open the PDF and then from the All tools menu on the left, select View more and then select Prepare for accessibility.
-
-
-    [:octicons-arrow-right-24: Customization](https://google.com)
 
 </div>
 
