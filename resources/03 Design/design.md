@@ -48,7 +48,9 @@ hide:
 
 </div>
 
-## Diagrams Example
+!!! example "How to organise the files"
+
+    The diagram shows how to organise all files. Click on the links to discover and use pre-prepared templates.
 
 ``` mermaid
 graph LR
@@ -61,10 +63,23 @@ graph LR
   res[resources] --> att[attachments];
   att --> mf[multimedia files];
   res --> f[Feedback];
-  f --> fq[<a href='https://github.com/FAIR-by-Design-Methodology/templates/blob/main/resources/Feedback/training_feedback_template.md'>survey</a>]
+  f --> fq[<a href='https://github.com/FAIR-by-Design-Methodology/templates/blob/main/resources/Feedback/training_feedback_template.md'>survey</a>];
   res --> s1[(opt) 01 Section Name];
   res --> s[<a href='https://github.com/FAIR-by-Design-Methodology/templates/blob/main/resources/syllabus.md'>Syllabus</a>];
-  res --> fg[<a href='https://github.com/FAIR-by-Design-Methodology/templates/blob/main/resources/template_facilitator_guide.md'>Facilitator Guide</a>]
+  res --> fg[<a href='https://github.com/FAIR-by-Design-Methodology/templates/blob/main/resources/template_facilitator_guide.md'>Facilitator Guide</a>];
+
+  s1 --> m1[(opt) 01 Module Name];
+  m1 --> lu1[01 Learning Unit Name];
+  m1 --> lux[...];
+  m1 --> luN[N Learning Unit Name];
+
+  lu1 --> act[Activities];
+  lu1 --> ass[Assessment];
+  lu1 --> at[attachments];
+  lu1 --> lc[Learning Content];
+  lu1 --> sd[Slide Deck];
+  lu1 --> lp[Learning Unit Plan];
+
 
 
 ```
