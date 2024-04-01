@@ -104,7 +104,7 @@ hide:
   </div>
 </div>
 
-<div class="card w-100 bg-light mb-3">
+<div class="card w-100 bg-light">
     <div class="row row-cols-3">
         <div class="col-sm-4"></div>
         <div class="col-sm-4">
