@@ -20,7 +20,7 @@ hide:
 <div class="row">
     <div class="col-sm-4">
         <div class="card" >
-        <img class="card-img-top" src="attachments/brain-3829057_640.jpg" alt="Developing concept map"/>
+        <img class="card-img-top" src="../../attachments/brain-3829057_640.jpg" alt="Developing concept map"/>
             <div class="card-body">
                 <h2 class="card-title">Concept map</h2>
                 <p class="card-text">Build a concept map of your learning materials aligning with the MVS profiles.</br>
