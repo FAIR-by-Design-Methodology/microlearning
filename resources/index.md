@@ -104,19 +104,17 @@ hide:
   </div>
 </div>
 
-
-<div class="row row-cols-3">
-  <div class="col-sm-4"></div>
-  <div class="col-sm-4">
-    <div class="card w-100 bg-light mb-3">
-        <div class="card-body">
-        <h2 class="card-title">Continuous Improvement</h2>
-        <p class="card-text">1. Create a list of potential improvements. </br></br> 2. Choose a set of improvements to be implemented and start a new release cycle.</br></p>
-        <a href="https://fair-by-design-methodology.github.io/microlearning/latest/06%20Verify/verify/" class="btn btn-dark stretched-link">Go to stage</a>
+<div class="card w-100 bg-light mb-3">
+    <div class="row row-cols-3">
+        <div class="col-sm-4"></div>
+        <div class="col-sm-4">
+            <div class="card-body">
+            <h2 class="card-title">Continuous Improvement</h2>
+            <p class="card-text">1. Create a list of potential improvements. </br></br> 2. Choose a set of improvements to be implemented and start a new release cycle.</br></p>
+            <a href="https://fair-by-design-methodology.github.io/microlearning/latest/06%20Verify/verify/" class="btn btn-dark stretched-link">Go to stage</a>
+            </div>
         </div>
-    </div>
-  </div>
-  <div class="col-sm-4"></div>
+        <div class="col-sm-4"></div>
 </div>
   
 <div class="container bg-dark p-5">
