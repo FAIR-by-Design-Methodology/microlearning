@@ -108,7 +108,7 @@ hide:
             > [“Je Suis Rick Springfield”](http://www.jonathancoulton.com/wiki/Je_Suis_Rick_Springfield) from the album [Artificial Heart](http://www.jonathancoulton.com/wiki/Artificial_Heart_(album)), by Jonathan Coulton, used under a [Creative Commons Attribution-Noncommercial 3.0 Unported License](http://creativecommons.org/licenses/by-nc/3.0/)
 
         - Photo/Drawing/Illustration – Title, author, license (with link online) or in close proximity to the tangible work (either in the border or directly on the work, if applicable).
-        
+
             > “[Comcast protest](http://www.flickr.com/photos/ari/8503459/in/set-214952/)” by Flikr user [Steve Rhodes](http://www.flickr.com/photos/ari/) used under [Creative Commons Attribution 2.0 license](http://creativecommons.org/licenses/by/2.0/deed.en)
 
     [:octicons-arrow-right-24: How to handle attribution?](https://courses.lumenlearning.com/suny-oerguide/chapter/how-to-handle-attribution/)
@@ -171,22 +171,15 @@ hide:
 
 </div>
 
-
-
-
-
-
-
 ## Internal QA
 
-Self-assessment
-Quantitative: required elements
-Qualitative: per LU
+<div class="grid cards" markdown>
 
+- :fontawesome-brands-html5: __QA Self-assessment__ to check if everything is as it should be
+- :fontawesome-brands-js: __Quantitative__ are all required elements produced
+- :fontawesome-brands-css3: __Qualitative__ do all learning units provide materials to reach the learning objectives with different modalities 
 
-
-
-
+</div>
 
 ​<a href="https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%204%20%E2%80%93%20Produce/08-Development%20Tools/08-Introduction%20to%20Markdown%20and%20Git/" class="btn btn-dark text-white btn-lg btn-block">Start an in-depth training on the Produce stage....</a>
 <a href="https://fair-by-design-methodology.github.io/FAIR-by-Design_Book/4%20-%20FAIR-by-design%20learning%20materials%20creation/4.1%20-%20Workflow%20stages%20description/414-produce/" class="btn btn-dark text-white btn-lg btn-block">FAIR-by-Design Methodology: Produce stage....</a>
