@@ -18,8 +18,8 @@ hide:
 <div class="row row-cols-1 row-cols-md-2">
     <div class="col mb-4">
         <div class="card">
-            <i class="fa fa-download fa-5x" aria-hidden="true"></i>
             <div class="card-body">
+                <i class="fa fa-download fa-3x" aria-hidden="true"></i>
                 <h2 class="card-title">Gather</h2>
                 <p class="card-text">Gather feedback from all available internal & external sources.</p>
                 <p class="card-text">Potential sources:</br>
@@ -35,8 +35,8 @@ hide:
     </div>
     <div class="col mb-4">
         <div class="card">
-            <i class="fa fa-bar-chart fa-5x" aria-hidden="true"></i>
             <div class="card-body">
+                <i class="fa fa-bar-chart fa-3x" aria-hidden="true"></i>
                 <h2 class="card-title">Analyse</h2>
                 <p class="card-text">Analyse the gathered information in a structured way.</p>
                 <p class="card-text">Create a list of potential improvements with impact level (high, moderate, low)
@@ -46,8 +46,8 @@ hide:
     </div>
     <div class="col mb-4">
         <div class="card">
-            <i class="fa fa-arrow-up fa-5x" aria-hidden="true"></i>
             <div class="card-body">
+                <i class="fa fa-arrow-up fa-3x" aria-hidden="true"></i>
                 <h2 class="card-title">Improve</h2>
                 <p class="card-text">Select items from the list that will be part of a new version.</p>
                 <p class="card-text">Choose items that make sense to be in the same new release.
@@ -56,9 +56,9 @@ hide:
         </div>
     </div>
     <div class="col mb-4">
-        <div class="card text-center">
-            <i class="fa fa-repeat fa-5x" aria-hidden="true"></i>
+        <div class="card">
             <div class="card-body">
+                <i class="fa fa-repeat fa-3x" aria-hidden="true"></i>
                 <h2 class="card-title">Repeat</h2>
                 <p class="card-text">Start a new cycle of the FAIR-by-Design methodology that will implement the selected items.</p>
                 <p class="card-text">After the Verify stage, you will reenter continuous improvement with newly gathered information....
