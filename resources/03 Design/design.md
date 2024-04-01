@@ -55,6 +55,8 @@ hide:
   B[example <a href='https://google.com'>link</a>] --> C;
   C[<a href='https://google.com'>just a link</a>] --> D[Debug];
   B ---->E[Yay!];
+  A --> C;
+  A --> D;
 ```
 
 
