@@ -20,9 +20,9 @@ hide:
 <div class="row">
     <div class="col-sm-4">
         <div class="card" >
-        <img class="card-img-top" src="attachments/brain-3829057_640.jpg" alt="Developing concept map">
+        <img class="card-img-top" src="attachments/brain-3829057_640.jpg" alt="Developing concept map"/>
             <div class="card-body">
-                <h5 class="card-title">Concept map</h5>
+                <h2 class="card-title">Concept map</h2>
                 <p class="card-text">Build a concept map of your learning materials aligning with the MVS profiles.</br>
                 Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3829057">Gerd Altmann</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3829057">Pixabay</a></br>
                 </p>
@@ -36,9 +36,9 @@ hide:
 
 <div class="grid cards" markdown>
 
-- :fontawesome-cogs: Create an intuitive logical organisation of all learning materials. 
-- :fontawesome-tasks: The goal is for other people to easily reuse a single item (plan, activity, unit, assessment, ...).
-- :fontawesome-sitemap: Use a hierarchical structure to combine learning units into larger compositions.
+- :fontawesome-gears: Create an intuitive logical organisation of all learning materials. 
+- :fontawesome-cubes-stacked: The goal is for other people to easily reuse a single item (plan, activity, unit, assessment, ...).
+- :fontawesome-boxes-stacked: Use a hierarchical structure to combine learning units into larger compositions.
 
 </div>
 
