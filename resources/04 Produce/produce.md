@@ -17,20 +17,44 @@ hide:
 
 ## Choose Tools & Formats
 
-Collaborative environment for team work
+<div class="grid" markdown>
 
-Granular versioning for easy rollback
+??? info "Collaborative environment for team work"
 
-Open file formats to foster reuse 
-    or clearly state the tools that have been used for development
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.
 
-Multimodal content for all audience 
-    media to cover different modalities
+??? tip "Granular versioning for easy rollback"
 
-Two file sets: editable for instructors, final for learners
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.
 
-Don't forget support co-creation
+??? success "Open file formats to foster reuse "
 
+    or clearly state the tools that have been used for development.
+
+??? warning "Multimodal content for all audience"
+
+    media to cover different modalities. 
+    
+??? example "Two file sets: editable for instructors, final for learners"
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.
+
+??? bug "Don't forget support co-creation"
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.
+
+
+
+
+</div>
 
 ## Plan to reuse existing material? 
 
@@ -64,5 +88,5 @@ Qualitative: per LU
 
 
 
-​<a href="https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%204%20%E2%80%93%20Produce/08-Development%20Tools/08-Introduction%20to%20Markdown%20and%20Git/">Start an in-depth training on the Produce stage....</a>
+​<a href="https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%204%20%E2%80%93%20Produce/08-Development%20Tools/08-Introduction%20to%20Markdown%20and%20Git/" class="btn btn-dark text-white btn-lg btn-block">Start an in-depth training on the Produce stage....</a>
 <a href="https://fair-by-design-methodology.github.io/FAIR-by-Design_Book/4%20-%20FAIR-by-design%20learning%20materials%20creation/4.1%20-%20Workflow%20stages%20description/414-produce/" class="btn btn-dark text-white btn-lg btn-block">FAIR-by-Design Methodology: Produce stage....</a>
