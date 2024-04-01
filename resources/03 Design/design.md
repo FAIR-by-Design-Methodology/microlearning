@@ -51,6 +51,7 @@ hide:
 ## Diagrams Example
 
 ``` mermaid
+graph LR
   A[Start] --> B;
   B[example <a href='https://google.com'>link</a>] --> C;
   C[<a href='https://google.com'>just a link</a>] --> D[Debug];
