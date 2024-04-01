@@ -111,22 +111,17 @@ graph LR
 
 <div class="grid cards" markdown>
 
-- <i class="fa fa-bullseye" aria-hidden="true"></i> __Set Learning Objectives__ ... what is the goal
-- <i class="fa fa-question-circle" aria-hidden="true"></i> __Identify Needs__ ... how to get there 
-- <i class="fa fa-list-alt" aria-hidden="true"></i> __Plan__ ... share the agenda
-- <i class="fa fa-heartbeat" aria-hidden="true"></i> __Hook__ ... why is the content important
-- <i class="fa fa-user-secret" aria-hidden="true"></i> __Instruct__ ... watch how I do it
-- <i class="fa fa-code-fork" aria-hidden="true"></i> __Practise__ ... you help me do it, I'll watch you do it
-- <i class="fa fa-hand-o-right" aria-hidden="true"></i> __Wrap-Up__ ... foster retention and reinforcement
-- <i class="fa fa-question-circle" aria-hidden="true"></i> __Evaluate__ ... monitor progress
-- <i class="fa fa-info-circle" aria-hidden="true"></i> __Reflect__ ... how did it go?
+- <i class="fa fa-bullseye" aria-hidden="true"></i> __1. Set Learning Objectives__ ... what is the goal
+- <i class="fa fa-question-circle" aria-hidden="true"></i> __2. Identify Needs__ ... how to get there 
+- <i class="fa fa-list-alt" aria-hidden="true"></i> __3. Plan__ ... share the agenda
+- <i class="fa fa-heartbeat" aria-hidden="true"></i> __4. Hook__ ... why is the content important
+- <i class="fa fa-user-secret" aria-hidden="true"></i> __5. Instruct__ ... watch how I do it
+- <i class="fa fa-code-fork" aria-hidden="true"></i> __6. Practise__ ... you help me do it, I'll watch you do it
+- <i class="fa fa-hand-o-right" aria-hidden="true"></i> __7. Wrap-Up__ ... foster retention and reinforcement
+- <i class="fa fa-question-circle" aria-hidden="true"></i> __8. Evaluate__ ... monitor progress
+- <i class="fa fa-info-circle" aria-hidden="true"></i> __9. Reflect__ ... how did it go?
 
 </div>
-
-​
-
-​
-
 
 <a href="https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%203%20%E2%80%93%20Design/04-Conceptualisation/04-Conceptualisation/" class="btn btn-dark text-white btn-lg btn-block">Start an in-depth training on the Design stage....</a>
 <a href="https://fair-by-design-methodology.github.io/FAIR-by-Design_Book/4%20-%20FAIR-by-design%20learning%20materials%20creation/4.1%20-%20Workflow%20stages%20description/413-design/" class="btn btn-dark text-white btn-lg btn-block">FAIR-by-Design Methodology: Design stage....</a>
