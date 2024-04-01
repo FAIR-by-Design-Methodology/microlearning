@@ -615,6 +615,15 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#diagrams-example" class="md-nav__link">
+    <span class="md-ellipsis">
+      Diagrams Example
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#develop" class="md-nav__link">
     <span class="md-ellipsis">
       Develop
@@ -1034,6 +1043,15 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#diagrams-example" class="md-nav__link">
+    <span class="md-ellipsis">
+      Diagrams Example
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#develop" class="md-nav__link">
     <span class="md-ellipsis">
       Develop
@@ -1127,6 +1145,139 @@
 <li><i class="fa fa-sitemap" aria-hidden="true"></i> Use a hierarchical structure to combine learning units into larger compositions.</li>
 </ul>
 </div>
+<h2 id="diagrams-example">Diagrams Example</h2>
+<pre class="mermaid"><code>graph LR
+root: Root
+root.shape: package
+
+res: resources
+root.shape: package
+
+rm: README
+rm.shape: page
+
+l: LICENSE
+l.shape: page
+
+c: CITATION.cff
+c.shape: page
+
+misc: (opt) Miscellaneous files
+misc.shape: document
+
+a: attachments
+a.shape: package
+
+f: Feedback
+f.shape: package
+
+s1: (opt) 01 Section Name
+s1.shape: package
+
+s: syllabus
+s: page
+
+fg: facilitator guide
+fg.shape: page
+
+mf: media files
+mf: document
+
+fqf: feedback questions
+fdf.shape: page
+
+m1: (opt) 01 Module Name
+m1.shape: package
+
+l1: 01 Learning Unit Name
+l1.shape: package
+
+lx: ...
+lx.shape: package
+
+lN: N Learning Unit Name
+lN.shape: package
+
+act: Activities
+act.shape: package
+
+ass: Assessment
+ass.shape: package
+
+att: attachments
+att.shape: package
+
+amf: media files
+amf.shape: document
+
+lc: Learning Content Description
+lc.shape: page
+
+sd: Slide Deck
+sd.shape: page
+
+lup: Learning Unit Plan
+lup.shape: page
+
+act1: 01 activity details
+act1.shape: page
+
+actx: ... activity details
+actx.shape: page
+
+actK: K activity details
+actK.shape: page
+
+assq: Assessment questions
+assq.shape: page
+
+asss: (opt) Assessment strategy
+asss.shape: page
+
+root -- res
+root -- rm
+root -- l
+root -- c
+root -- misc
+
+res -- a
+res -- f
+res -- s1
+res --s 
+res -- fg
+
+a -- mf
+
+f -- fqf
+
+s1 -- m1
+
+m1 -- l1
+m1 -- lx
+m1 -- lN
+
+l1 -- act
+l1 -- ass
+l1 -- att
+l1 -- lc
+l1 -- sd
+l1 -- lup
+
+act -- act1
+act -- actx
+act -- actK
+
+ass -- assq
+ass -- asss
+
+att -- amf
+
+
+  A[Start] --&gt; B{Error?};
+  B[example &lt;a href='https://google.com'&gt;link&lt;/a&gt;] --&gt;|Yes| C[Hmm...];
+  C[&lt;a href='https://google.com'&gt;just a link&lt;/a&gt;] --&gt; D[Debug];
+  D --&gt; B;
+  B ----&gt;|&lt;a href='https://google.com'&gt;No&lt;/a&gt;| E[Yay!];</code></pre>
 <h2 id="develop">Develop</h2>
 <p>Hunter</p>
 <h2 id="facilitation-guide">Facilitation Guide</h2>
