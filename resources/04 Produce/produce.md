@@ -101,25 +101,68 @@ hide:
             > [“Je Suis Rick Springfield”](http://www.jonathancoulton.com/wiki/Je_Suis_Rick_Springfield) from the album [Artificial Heart](http://www.jonathancoulton.com/wiki/Artificial_Heart_(album)), by Jonathan Coulton, used under a [Creative Commons Attribution-Noncommercial 3.0 Unported License](http://creativecommons.org/licenses/by-nc/3.0/)
         - Photo/Drawing/Illustration – Title, author, license (with link online) or in close proximity to the tangible work (either in the border or directly on the work, if applicable).
             > “[Comcast protest](http://www.flickr.com/photos/ari/8503459/in/set-214952/)” by Flikr user [Steve Rhodes](http://www.flickr.com/photos/ari/) used under [Creative Commons Attribution 2.0 license](http://creativecommons.org/licenses/by/2.0/deed.en)
-        
-
-
 
     [:octicons-arrow-right-24: How to handle attribution?](https://courses.lumenlearning.com/suny-oerguide/chapter/how-to-handle-attribution/)
 
 </div>
 
 
-
 ## Accessibility
 
-Cover the widest range of learner variability
-w+w/o assistive technology
+!!! tip ""
 
-W3C WCAG 2.1(2.2)
-PDF/UA
+    The developed learning materials should cover the widest range of learner variability including the ones that use or do not use assistive technology.
 
-Use accessibility evaluation tools!
+<div class="card w-100 mb-3">
+  <div class="row no-gutters">
+    <div class="col-md-4" style="width: 18rem;">
+      <i class="fa fa-universal-access fa-5x" aria-hidden="true"></i>
+    </div>
+    <div class="col-md-8" style="width: 36rem;">
+      <div class="card-body">
+            <h2 class="card-title">Standards</h2>
+            <p class="card-text">There are several standards that govern the rules on level of accessibility. Three conformance levels exist, you should aim for AA which is the middle one. </p>
+            <p class="card-text">Most commonly used is the [W3C Web Content Accessibility Guidelines (WCAG) standard version 2.1](https://www.w3.org/WAI/standards-guidelines/wcag/).</p>
+            <p class="card-text">PDF document accessibility is measured with a separate technical specification [PDF/UA (Universal Accessibility)](https://pdfua.foundation/en/why-pdf-ua/).</p>
+            <a href="https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%204%20%E2%80%93%20Produce/11-Accessibility/11-Checking_accessibility/" class="btn btn-primary stretched-link">Learn more</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="grid cards" markdown>
+
+-   :material-format-font:{ .lg .middle } __Use accessibility evaluation tools!__
+
+    ---
+
+    Accessibility evaluation tools are not perfect. Even if they say that all is ok, it does not mean that your content is truly accessible. But they are a very good starting point.
+
+    === "Slides"
+
+        Use the integrated accessibility checker in Power Point:
+
+        1. Open an existing presentation in PowerPoint and review the content. 
+        2. Select the Review tab. 
+        3. Select Check Accessibility.
+        4. An Accessibility Checker pane will appear on the right with 'Inspection Results' displayed.
+
+    === "Web content"
+
+        Choose from the [Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/test-evaluate/tools/list/) developed by W3C.
+
+    === "PDF document"
+
+        Check accessibility in Adobe Acrobat Pro.
+
+        Open the PDF and then from the All tools menu on the left, select View more and then select Prepare for accessibility.
+
+
+    [:octicons-arrow-right-24: Customization](https://google.com)
+
+</div>
+
+
 
 
 
