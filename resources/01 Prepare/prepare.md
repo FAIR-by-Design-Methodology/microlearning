@@ -17,6 +17,8 @@ hide:
 
 ## First things first. What is FAIR?
 
+<div class="grid" markdown>
+
 ??? note "Findable"
 
     The editable learning material has a unique and persistent identifier (PID) and is described with sufficiently detailed metadata.
@@ -24,6 +26,10 @@ hide:
 ??? success "Accessible"
 
     The human and machine readable metadata and object are stored in a trusted repository with clear authentication and authorization procedures.
+
+</div>
+
+<div class="grid" markdown>
 
 ??? warning "Interoperable"
 
@@ -34,6 +40,8 @@ hide:
 ??? danger "Reusable"
 
     The learning material has a clear usage license (CC-BY-4.0 recommended) and accurate information on provenance.
+
+</div>
 
 ## Adopt a metadata schema
   <a href="https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%201%20%E2%80%93%20Prepare/02-Preparing%20FAIR%20Learning%20Objects/02-Preparing%20FAIR%20Learning%20Objects/#rda-minimal-metadata-for-learning-resources" class="btn btn-primary btn-lg btn-block">The RDA Minimal Metadata Set for Learning Resources</a>
