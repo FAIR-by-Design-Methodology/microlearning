@@ -15,51 +15,53 @@ hide:
 
     To improve is to change; to be perfect is to change often. - *Winston Churchill*
 
+<div class="row row-cols-1 row-cols-md-2">
+    <div class="grid cards" markdown>
 
-<div class="grid cards" markdown>
+    -   :material-download:{ .lg .middle } __Gather__
 
--   :material-download:{ .lg .middle } __Gather__
+        ---
 
-    ---
+        Gather feedback from all available internal & external sources.
 
-    Gather feedback from all available internal & external sources:
+        ??? note "Potential sources"
 
-    - Feedback form
-    - QA recommendations
-    - self-reflection after training
-    - GitHub issues or Fork and pull requests
-    - Survey
-    - Direct mail contact
-    - Other means of communication
-
-
--   :material-google-analytics:{ .lg .middle } __Analyse__
-
-    ---
-
-    Analyse the gathered information in a structured way.
-
-    Create a list of potential improvements with impact level (high, moderate, low)
+            - Feedback form </br>
+            - QA recommendations </br>
+            - self-reflection after training </br>
+            - Survey </br>
+            - Direct mail contact </br>
+            - Other means of communication </br>
 
 
--   :material-arrow-up-bold-circle-outline:{ .lg .middle } __Improve__
+    -   :material-google-analytics:{ .lg .middle } __Analyse__
 
-    ---
+        ---
 
-    Select items from the list that will be part of a new version.
+        Analyse the gathered information in a structured way.
 
-    Choose items that make sense to be in the same new release.
+        Create a list of potential improvements with impact level (high, moderate, low)
+
+
+    -   :material-arrow-up-bold-circle-outline:{ .lg .middle } __Improve__
+
+        ---
+
+        Select items from the list that will be part of a new version.
+
+        Choose items that make sense to be in the same new release.
 
 
 
--   :material-repeat:{ .lg .middle } __Repeat__
+    -   :material-repeat:{ .lg .middle } __Repeat__
 
-    ---
+        ---
 
-    Start a new cycle of the FAIR-by-Design methodology that will implement the selected items.
+        Start a new cycle of the FAIR-by-Design methodology that will implement the selected items.
 
-    After the Verify stage, you will reenter continuous improvement with newly gathered information....
+        After the Verify stage, you will reenter continuous improvement with newly gathered information....
 
+    </div>
 </div>
 
 ​<a href="https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%206%20%E2%80%93%20Verify/20-Continuous%20Improvement/20-CI/" class="btn btn-dark text-white btn-lg btn-block">Start an in-depth training on the Continuous Improvement stage....</a>
