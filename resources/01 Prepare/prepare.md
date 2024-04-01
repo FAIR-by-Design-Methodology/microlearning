@@ -169,4 +169,4 @@ hide:
 
 
 <a href="https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%201%20%E2%80%93%20Prepare/01-FAIR%20skills%20%26%20principles/01-FAIR%20skills%20%26%20principles/" class="btn btn-dark text-white btn-lg btn-block">Start an in-depth training on the Prepare stage....</a>
-
+<a href="https://fair-by-design-methodology.github.io/FAIR-by-Design_Book/4%20-%20FAIR-by-design%20learning%20materials%20creation/4.1%20-%20Workflow%20stages%20description/411-prepare/" class="btn btn-dark text-white btn-lg btn-block">FAIR-by-Design Methodology: Prepare stage....</a>

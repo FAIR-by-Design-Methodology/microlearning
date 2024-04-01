@@ -75,3 +75,4 @@ Reusable materials can be found anywhere. These are just some examples:
 Different learners have different learning modalities (read/write, auditory, visual, kinesthetic). You should use all types of multimedia in your learning materials.
 
 <a href="https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%202%20%E2%80%93%20Discover/03-Existing%20learning%20materials/03-Existing%20learning%20materials/" class="btn btn-dark text-white btn-lg btn-block">Start an in-depth training on the Discover stage....</a>
+<a href="https://fair-by-design-methodology.github.io/FAIR-by-Design_Book/4%20-%20FAIR-by-design%20learning%20materials%20creation/4.1%20-%20Workflow%20stages%20description/412-discover/" class="btn btn-dark text-white btn-lg btn-block">FAIR-by-Design Methodology: Discover stage....</a>
