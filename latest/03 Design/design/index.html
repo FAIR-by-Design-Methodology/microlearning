@@ -615,15 +615,6 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#diagrams-example" class="md-nav__link">
-    <span class="md-ellipsis">
-      Diagrams Example
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
   <a href="#develop" class="md-nav__link">
     <span class="md-ellipsis">
       Develop
@@ -1043,15 +1034,6 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#diagrams-example" class="md-nav__link">
-    <span class="md-ellipsis">
-      Diagrams Example
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
   <a href="#develop" class="md-nav__link">
     <span class="md-ellipsis">
       Develop
@@ -1146,7 +1128,10 @@
 <li><i class="fa fa-sitemap" aria-hidden="true"></i> Use a hierarchical structure to combine learning units into larger compositions.</li>
 </ul>
 </div>
-<h2 id="diagrams-example">Diagrams Example</h2>
+<div class="admonition example">
+<p class="admonition-title">How to organise the files</p>
+<p>The diagram shows how to organise all files. Click on the links to discover and use pre-prepared templates.</p>
+</div>
 <pre class="mermaid"><code>graph LR
   r[root] --&gt; res;
   r --&gt; rm[&lt;a href='https://www.makeareadme.com/'&gt;README&lt;/a&gt;];
@@ -1157,10 +1142,23 @@
   res[resources] --&gt; att[attachments];
   att --&gt; mf[multimedia files];
   res --&gt; f[Feedback];
-  f --&gt; fq[&lt;a href='https://github.com/FAIR-by-Design-Methodology/templates/blob/main/resources/Feedback/training_feedback_template.md'&gt;survey&lt;/a&gt;]
+  f --&gt; fq[&lt;a href='https://github.com/FAIR-by-Design-Methodology/templates/blob/main/resources/Feedback/training_feedback_template.md'&gt;survey&lt;/a&gt;];
   res --&gt; s1[(opt) 01 Section Name];
   res --&gt; s[&lt;a href='https://github.com/FAIR-by-Design-Methodology/templates/blob/main/resources/syllabus.md'&gt;Syllabus&lt;/a&gt;];
-  res --&gt; fg[&lt;a href='https://github.com/FAIR-by-Design-Methodology/templates/blob/main/resources/template_facilitator_guide.md'&gt;Facilitator Guide&lt;/a&gt;]
+  res --&gt; fg[&lt;a href='https://github.com/FAIR-by-Design-Methodology/templates/blob/main/resources/template_facilitator_guide.md'&gt;Facilitator Guide&lt;/a&gt;];
+
+  s1 --&gt; m1[(opt) 01 Module Name];
+  m1 --&gt; lu1[01 Learning Unit Name];
+  m1 --&gt; lux[...];
+  m1 --&gt; luN[N Learning Unit Name];
+
+  lu1 --&gt; act[Activities];
+  lu1 --&gt; ass[Assessment];
+  lu1 --&gt; at[attachments];
+  lu1 --&gt; lc[Learning Content];
+  lu1 --&gt; sd[Slide Deck];
+  lu1 --&gt; lp[Learning Unit Plan];
+
 
 </code></pre>
 <h2 id="develop">Develop</h2>
