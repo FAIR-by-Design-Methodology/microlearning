@@ -31,7 +31,6 @@ hide:
         <p class="card-text">Build a concept map of your learning materials aligning with the MVS profiles.</p>
         <p class="card-text">The aligned MVS profile can help you cristalize the learning objectives using MVS taxonomy.</p>
         <p class="card-text">Each MVS profile defines a list of technical and soft skills required for the profile. Think on how to incorporate both aspects in your learning materials.</p>
-        <a href="https://fair-by-design-methodology.github.io/MVS/latest/MVS%20Profiles/Civil%20Servant/civil_servant/" class="btn btn-primary stretched-link">Go to MVS profiles catalogue</a>
       </div>
     </div>
   </div>
