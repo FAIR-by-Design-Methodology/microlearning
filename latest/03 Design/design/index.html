@@ -1148,12 +1148,21 @@
 </div>
 <h2 id="diagrams-example">Diagrams Example</h2>
 <pre class="mermaid"><code>graph LR
-  A[Start] --&gt; B;
-  B[example &lt;a href='https://google.com'&gt;link&lt;/a&gt;] --&gt; C;
-  C[&lt;a href='https://google.com'&gt;just a link&lt;/a&gt;] --&gt; D[Debug];
-  B ----&gt;E[Yay!];
-  A --&gt; C;
-  A --&gt; D;</code></pre>
+  r[root] --&gt; res;
+  r --&gt; rm[&lt;a href='https://www.makeareadme.com/'&gt;README&lt;/a&gt;];
+  r --&gt; l[&lt;a href='https://creativecommons.org/licenses/by/4.0/legalcode.txt'&gt;LICENSE&lt;/a&gt;];
+  r --&gt; c[&lt;a href='https://citation-file-format.github.io/'&gt;CITATION.cff&lt;/a&gt;];
+  r --&gt; mf[miscellaneous files];
+
+  res[resources] --&gt; att[attachments];
+  att --&gt; mf[multimedia files];
+  res --&gt; f[Feedback];
+  f --&gt; fq[&lt;a href='https://github.com/FAIR-by-Design-Methodology/templates/blob/main/resources/Feedback/training_feedback_template.md'&gt;survey&lt;/a&gt;]
+  res --&gt; s1[(opt) 01 Section Name];
+  res --&gt; s[&lt;a href='https://github.com/FAIR-by-Design-Methodology/templates/blob/main/resources/syllabus.md'&gt;Syllabus&lt;/a&gt;];
+  res --&gt; fg[&lt;a href='https://github.com/FAIR-by-Design-Methodology/templates/blob/main/resources/template_facilitator_guide.md'&gt;Facilitator Guide&lt;/a&gt;]
+
+</code></pre>
 <h2 id="develop">Develop</h2>
 <p>Hunter</p>
 <h2 id="facilitation-guide">Facilitation Guide</h2>
