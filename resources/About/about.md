@@ -32,7 +32,7 @@ hide:
     - navigation
 ---
 
-![Header with Skills4EOSC funding information](./attachments/header.png)
+![Header with Skills4EOSC funding information](../attachments/header.png)
 
 # FAIR-by-Design Microlearning
 
