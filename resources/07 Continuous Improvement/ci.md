@@ -9,7 +9,7 @@ hide:
     - navigation
 ---
 
-# Stage 7 - Continuos Integration 
+# Stage 7 - Continuos Improvement 
 
 !!! quote ""
 
