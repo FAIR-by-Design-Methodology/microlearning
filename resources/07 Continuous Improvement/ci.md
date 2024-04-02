@@ -1,5 +1,5 @@
 ---
-title: "Stage 7 - Continuous Integration"
+title: "Stage 7 - Continuous Improvement"
 author: "Skills4EOSC T2.3"
 tags: 
     - FAIR-by-Design Learning Materials
