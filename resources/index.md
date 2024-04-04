@@ -42,7 +42,7 @@ hide:
 </div>
 
 
-<div class="row row-cols-3">
+<div class="row">
   <div class="col-sm-4">
     <div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
       <div class="card-body">
