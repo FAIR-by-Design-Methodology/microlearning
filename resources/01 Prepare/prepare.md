@@ -87,7 +87,8 @@ hide:
 
 <div class="row">
   <div class="col-sm-4">
-    <div class="card text-white bg-secondary mb-3" >
+   <!-- <div class="card text-white bg-secondary mb-3" > -->
+   <div class="card bg-light mb-3" >
       <div class="card-header text-white"><i class="fa fa-fast-backward" aria-hidden="true"></i> Think backward</div>
       <div class="card-body">
         <h5 class="card-title">Step 1</h5>
