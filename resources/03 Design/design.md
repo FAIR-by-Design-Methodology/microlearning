@@ -91,7 +91,7 @@ graph LR
 ```
 !!! info "Syllabus is ready" 
 
-    You should by now have the first draft of your syllabus. It contains all the fields from the RDA min metadata set plus the high level topics covered by the learning material.
+    You should by now have the first draft of your <a href='https://github.com/FAIR-by-Design-Methodology/templates/blob/main/resources/syllabus.md'>syllabus</a>. It contains all the fields from the RDA min metadata set plus the high level topics covered by the learning material.
 
 ??? info "Available feedback form"
 
