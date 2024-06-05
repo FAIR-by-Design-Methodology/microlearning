@@ -90,7 +90,7 @@ hide:
    <!-- <div class="card text-white bg-secondary mb-3" > -->
    <div class="card bg-light mb-3" >
       <!-- <div class="card-header text-white"> -->
-      div class="card-header"><i class="fa fa-fast-backward" aria-hidden="true"></i> Think backward</div>
+      <div class="card-header"><i class="fa fa-fast-backward" aria-hidden="true"></i> Think backward</div>
       <div class="card-body">
         <h5 class="card-title">Step 1</h5>
         <p class="card-text">What are your desired effects, i.e. learning outcomes...</p>
