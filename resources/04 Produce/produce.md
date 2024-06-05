@@ -21,7 +21,7 @@ hide:
 
 ??? info "Collaborative environment for team work"
 
-    Choose an environment for producing the learning material that will enable multiple people to work on the same material at one. Two examples are workplace or GitHub. Replicate the folder tree in the environment and start using the provided templates to generate the content.
+    Choose an environment for producing the learning material that will enable multiple people to work on the same material at one. Two examples are workplace or GitHub (find out more <a href='https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%204%20–%20Produce/08-Development%20Tools/08-Introduction%20to%20Markdown%20and%20Git/'>here</a>). Replicate the folder tree in the environment and start using the provided templates to generate the content.
 
 ??? tip "Granular versioning for easy rollback"
 

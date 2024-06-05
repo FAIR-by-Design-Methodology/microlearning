@@ -19,7 +19,7 @@ hide:
 
 ??? tip "Time to create the accompanying files"
 
-    These are files that are provided in the root of your learning materials and describe the content and define the rules of reuse.
+    These are <a href='https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%205%20–%20Publish/16-Publishing%20Preparations/16-Publishing%20Preparations/'>files</a> that are provided in the root of your learning materials and describe the content and define the rules of reuse.
 
 
 <div class="grid cards" markdown>
