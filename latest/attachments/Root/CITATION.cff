@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use these learning materials, please cite it as below."
+authors:
+  - family-names: Surname
+    given-names: First_Name
+    orcid: https://orcid.org/1234-5678-9101-1121
+    affiliation: Organization
+title: "Training Name"
+abstract: "Training description"
+version: 1.0.0
+doi: 10.5070/zenodo.123
+date-released: "1970-01-01"
+license: CC-BY-4.0
+license-url: "https://creativecommons.org/licenses/by/4.0/legalcode.txt"
+keywords:
+ - "thefirstkeyword"
+ - "thesecondkeyword"
+ - "a third keyword"
+repository: "https://github.com/citation-file-format/my-research-software"
