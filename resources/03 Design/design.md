@@ -66,7 +66,7 @@ graph LR
   f --> fq[<a href='https://github.com/FAIR-by-Design-Methodology/templates/blob/main/resources/Feedback/training_feedback_template.md'>survey</a>];
   res --> s1[opt 01 Section Name];
   res --> s[<a href='https://github.com/FAIR-by-Design-Methodology/templates/blob/main/resources/syllabus.md'>Syllabus</a>];
-  res --> fg[<a href='https://github.com/FAIR-by-Design-Methodology/templates/blob/main/resources/template_facilitator_guide.md'>Facilitator Guide</a>];
+  res --> fg[Facilitator Guide <br> <a href='https://github.com/FAIR-by-Design-Methodology/templates/blob/main/resources/template_facilitator_guide.md'>Git MD format</a><br><a href='https://github.com/FAIR-by-Design-Methodology/microlearning/blob/main/resources/attachments/Root/Training%20Facilitator%20Guide.docx'>Worplace format</a>];
 
   s1 --> m1[opt 01 Module Name];
   m1 --> lu1[01 Learning Unit Name];
