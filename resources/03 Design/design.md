@@ -81,9 +81,9 @@ graph LR
   lu1 --> sd[<a href='https://github.com/FAIR-by-Design-Methodology/templates/blob/main/resources/Learning%20Unit/Learning_unit_content.pptx'>Slide Deck</a>];
   lu1 --> lp[<a href='https://github.com/FAIR-by-Design-Methodology/templates/blob/main/resources/Learning%20Unit/template_unit_lesson_plan.md'>Learning Unit Plan</a>];
 
-  act --> a1[<b>01 activity desc</b><br><a href='https://github.com/FAIR-by-Design-Methodology/templates/blob/main/resources/Learning%20Unit/Activities/activity_details_template.md'>Git MD format</a><br><a href='https://github.com/FAIR-by-Design-Methodology/templates/blob/main/resources/Learning%20Unit/Activities/activity_details_template.md'>Office format</a>];
+  act --> a1[<b>01 activity desc</b><br><a href='https://github.com/FAIR-by-Design-Methodology/templates/blob/main/resources/Learning%20Unit/Activities/activity_details_template.md'>Git MD format</a><br><a href='https://github.com/FAIR-by-Design-Methodology/microlearning/blob/main/resources/attachments/Root/XX%20module%20name/activities/Activity%20Name_description.docx'>Office format</a>];
   act --> ax[...];
-  act --> aK[<b>K activity desc</b><br><a href='https://github.com/FAIR-by-Design-Methodology/templates/blob/main/resources/Learning%20Unit/Activities/activity_details_template.md'>Git MD format</a><br><a href='https://github.com/FAIR-by-Design-Methodology/templates/blob/main/resources/Learning%20Unit/Activities/activity_details_template.md'>Office format</a>];
+  act --> aK[<b>K activity desc</b><br><a href='https://github.com/FAIR-by-Design-Methodology/templates/blob/main/resources/Learning%20Unit/Activities/activity_details_template.md'>Git MD format</a><br><a href='https://github.com/FAIR-by-Design-Methodology/microlearning/blob/main/resources/attachments/Root/XX%20module%20name/activities/Activity%20Name_description.docx'>Office format</a>];
 
   ass --> qb[<a href='https://github.com/FAIR-by-Design-Methodology/templates/blob/main/resources/Learning%20Unit/Assessment/assessment_template.md'>questions</a>];
   ass --> st[<a href='https://github.com/FAIR-by-Design-Methodology/templates/blob/main/resources/Learning%20Unit/Assessment/assessment_template.md'>opt strategy</a>];
