@@ -4,6 +4,11 @@ author: "Skills4EOSC T2.3"
 tags: 
     - FAIR-by-Design Learning Materials
     - FAIR Learning Objects
+    - Concept map
+    - Structure
+    - Template
+    - Facilitation kit
+    - Hunter model
 hide:
     - toc
     - navigation

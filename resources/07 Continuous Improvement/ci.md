@@ -4,6 +4,9 @@ author: "Skills4EOSC T2.3"
 tags: 
     - FAIR-by-Design Learning Materials
     - FAIR Learning Objects
+    - List of improvements
+    - Feedback analysis
+    - Priority
 hide:
     - toc
     - navigation
