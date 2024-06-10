@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use these learning materials, please cite it as below."
+message: If you use these learning materials, please cite it as below.
 authors:
   - family-names: Filiposka
     given-names: Sonja
@@ -9,15 +9,17 @@ authors:
     given-names: Anastas
     orcid: https://orcid.org/0000-0001-7271-6655
     affiliation: UKIM
-title: "FAIR-by-Design Microlearning"
-abstract: "Short how to guide that helps project members follow the stages of the FAIR-by-Design methodology without any specific choice on tools and formats."
+title: FAIR-by-Design Microlearning
+abstract: >-
+  Short how to guide that helps project members follow the stages of the
+  FAIR-by-Design methodology without any specific choice on tools and formats.
 version: 1.0.0
-doi: 10.5070/zenodo.123
-date-released: "2024-06-10"
+doi: 10.5281/zenodo.11548062
+date-released: '2024-06-10'
 license: CC-BY-4.0
-license-url: "https://creativecommons.org/licenses/by/4.0/legalcode.txt"
+license-url: https://creativecommons.org/licenses/by/4.0/legalcode.txt
 keywords:
-  - "FAIR learning materials"
-  - "FAIR-by-Design Methodology"
-  - "Practical Implementation"
-repository: "https://github.com/FAIR-by-Design-Methodology/microlearning"
+  - FAIR learning materials
+  - FAIR-by-Design Methodology
+  - Practical Implementation
+repository: https://github.com/FAIR-by-Design-Methodology/microlearning
