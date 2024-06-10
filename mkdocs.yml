@@ -79,4 +79,4 @@ citation:
     - Practical Implementation
   repository: "https://github.com/FAIR-by-Design-Methodology/microlearning"
 signposting:
-  cffUrl: https://raw.githubusercontent.com/FAIR-by-Design-Methodology/microlearning/main/CITATION.cff
+  cffUrl: https://raw.githubusercontent.com/FAIR-by-Design-Methodology/microlearning/1.0.0/CITATION.cff
