@@ -68,15 +68,15 @@ citation:
   title: "FAIR-by-Design Microlearning"
   abstract: "Short how to guide that helps project members follow the stages of the FAIR-by-Design methodology without any specific choice on tools and formats."
   version: 1.0.0
-  doi: 10.5070/zenodo.123
+  doi: 10.5281/zenodo.11548062
   date-released: "2024"
   license: CC-BY-4.0
   license-url: "https://creativecommons.org/licenses/by/4.0/legalcode.txt"
   type: generic
   keywords:
-    - "FAIR learning materials"
-    - "FAIR-by-Design Methodology"
-    - "Practical Implementation"
+    - FAIR learning materials
+    - FAIR-by-Design Methodology
+    - Practical Implementation
   repository: "https://github.com/FAIR-by-Design-Methodology/microlearning"
 signposting:
   cffUrl: https://raw.githubusercontent.com/FAIR-by-Design-Methodology/microlearning/main/CITATION.cff
