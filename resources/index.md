@@ -13,7 +13,7 @@ abstract: "Short how to guide that helps project members follow the stages of th
 primaryLanguage: "EN"
 license: "CC-BY-4.0"
 versionDate: "2024-04-01"
-urlToResource: "https://doi.org/10.5072/zenodo.1234567"
+urlToResource: "https://doi.org/10.5281/zenodo.11548062"
 resourceURLType: "URL"
 targetGroup: "Skills4EOSC project members"
 learningResourceType: "HTML"
