@@ -18,6 +18,15 @@ hide:
 
     Publishing is the art of working on a creative idea and turning it into a masterpiece​ - *Unknown*
 
+??? warning "Publishing closed FAIR materials"
+
+    Having FAIR learning materials does not always mean that the materials are open to everyone and there are no costs or access rules attached. In this case the bundle that is going to be published in an open repository such as Zenodo should contain the following:
+
+    1. Syllabus - that contains all metadata that describe the materials and metadata should always be open
+    2. Accompanying files - optional - augment the description of the materials and describe the details when it comes to accessing and using the materials from a trainer perspective 
+
+    Another alternative is to publish the materials in a closed repository where the corresponding access rules can be implemented.
+
 ## Final preparations
 
 ??? tip "Time to create the accompanying files"
